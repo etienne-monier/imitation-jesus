@@ -17,13 +17,13 @@ moi en lui. Les paroles que je vous ai dites sont esprit et vie.
 
 _Voix du disciple_
 
-Le fidèle: Ce sont là vos paroles, ô Jésus ! vérité éternelle ! quoiqu'elles n'aient pas
+Le fidèle : Ce sont là vos paroles, ô Jésus ! vérité éternelle ! quoiqu'elles n'aient pas
 été dites dans le même temps et qu'elles ne soient pas écrites dans le même lieu. Et
 puisqu'elles viennent de vous et qu'elles sont véritables, je dois les recevoir toutes
 avec une foi pleine de reconnaissance. Elles sont de vous car c'est vous qui les avez
 dites; mais elles sont aussi à moi parce que vous les avez dites pour mon salut. Je les
 reçois avec joie de votre bouche, afin qu'elles se gravent profondément dans mon
-coeur. Ces paroles pleines de tant de bonté, de tendresse et d'amour, m'animent; mais
+cœur. Ces paroles pleines de tant de bonté, de tendresse et d'amour, m'animent; mais
 la pensée de mes crimes m'effraye et ma conscience impure m'éloigne d'un mystère si
 saint. La douceur de vos paroles m'attire, mais le poids de mes péchés me retient.
 
@@ -33,13 +33,13 @@ Venez, dites-vous, venez à moi, vous tous qui souffrez et qui êtes oppressés,
 vous ranimerai. Ô douce et aimable parole à l'oreille d'un pécheur ! vous invitez,
 Seigneur mon Dieu, le pauvre et l'indigent à la participation de votre corps sacré.
 Mais qui suis-je, Seigneur, pour oser m'approcher de vous ? Voilà que les cieux ne
-peuvent vous contenir, et vous dites: Venez tous à moi.
+peuvent vous contenir, et vous dites : Venez tous à moi.
 
 D'où vient cette miséricordieuse condescendance, une si tendre invitation ?
 Comment oserai-je aller à vous, moi qui ne sens en moi-même aucun bien qui puisse
 me donner quelque confiance ? Comment vous recevrai-je en ma maison, moi qui ai
 si souvent outragé votre bonté ? Les anges et les archanges vous adorent en
-tremblant, les saints et les justes sont saisis de frayeur; et vous dites: Venez tous à moi
+tremblant, les saints et les justes sont saisis de frayeur; et vous dites : Venez tous à moi
 ! Si ce n'était vous qui le dites, Seigneur, qui pourrait le croire ? Et si vous
 n'ordonniez vous-même d'approcher de vous, qui en aurait l'audace ?
 
@@ -77,7 +77,7 @@ David, ce roi si pieux, fit éclater ses transports par des danses religieuses d
 l'arche, se souvenant des bienfaits que Dieu avait répandus sur ses pères; il fit faire
 divers instruments de musique, il composa des psaumes que le peuple chantait avec
 allégresse, selon ce qu'il avait ordonné, et, animé de l'Esprit-Saint, souvent il chantait
-lui-même sur sa harpe; il apprit aux enfants d'Israël à louer Dieu de tout leur coeur et
+lui-même sur sa harpe; il apprit aux enfants d'Israël à louer Dieu de tout leur cœur et
 à unir chaque jour leurs voix pour le célébrer et le bénir. Si la vue de l'arche d'alliance
 inspirait tant de ferveur, tant de zèle pour les louanges de Dieu, quel respect, quel
 amour ne doit pas m'inspirer, et à tout le peuple chrétien, la présence de votre
@@ -90,7 +90,7 @@ même, ô mon Dieu ! vous êtes ici présent devant moi sur l'autel, vous le Sai
 saints, le Créateur des hommes, le Roi des anges. Souvent c'est la curiosité, le désir
 de voir des choses nouvelles, qui fait entreprendre ces pèlerinages; et de là vient que,
 guidé par ce motif frivole, sans véritable contrition, on en tire peu de fruit pour la
-réforme des moeurs. Mais ici, dans le sacrement de l'autel, vous êtes présent tout
+réforme des mœurs. Mais ici, dans le sacrement de l'autel, vous êtes présent tout
 entier, ô Christ Jésus ! vrai Dieu et vrai homme, et toutes les fois qu'on vous reçoit
 dignement et avec ferveur, on recueille en abondance les fruits du salut éternel. Ce
 n'est pas la légèreté, ni la curiosité, ni l'attrait des sens, qui conduit à ce banquet
@@ -99,7 +99,7 @@ sacré; mais une foi ferme, une vive espérance, une charité sincère.
 Ô Dieu Créateur invisible du monde ! que vous êtes admirable dans ce que vous
 faites pour nous ! avec quelle bonté, quelle tendresse vous veillez sur vos élus, vous
 donnant vous-même à eux pour nourriture dans votre Sacrement ! C'est là ce qui
-surpasse toute intelligence, ce qui, plus qu'aucune autre chose, attire à vous les coeurs
+surpasse toute intelligence, ce qui, plus qu'aucune autre chose, attire à vous les cœurs
 pieux et enflamme leur amour. Car vos vrais fidèles, occupés toute leur vie de se
 corriger, puisent dans la fréquente réception de cet auguste sacrement une
 merveilleuse ferveur et un zèle ardent pour la vertu.
@@ -117,7 +117,7 @@ et leur seul mérite. Car c'est lui qui nous sanctifie et qui nous a rachetés; 
 consolation de ceux qui voyagent sur la terre et l'éternelle félicité des saints. Combien
 donc ne doit-on pas gémir de ce que plusieurs montrent tant d'indifférence pour ce
 sacré mystère, qui est la joie du ciel et le salut du monde ! Ô aveuglement, ô dureté
-du coeur humain ! d'être si peu touché de ce don ineffable, qu'il semble perdre de son
+du cœur humain ! d'être si peu touché de ce don ineffable, qu'il semble perdre de son
 prix à mesure qu'on en use davantage !
 
 Si cet adorable sacrement ne s'accomplissait qu'en un seul lieu et qu'un seul prêtre
@@ -128,7 +128,7 @@ que la miséricorde et l'amour de Dieu pour l'homme éclatent d'autant plus, que
 sainte communion est plus répandue dans le monde. Je vous rends grâce, ô Jésus,
 pasteur éternel, qui dans notre exil et notre indigence, daignez nous nourrir de votre
 corps et de votre sang précieux, et nous inviter de votre propre bouche à la
-participation des ces sacrés mystères, disant: Venez à moi, vous tous qui portez votre
+participation des ces sacrés mystères, disant : Venez à moi, vous tous qui portez votre
 fardeau avec travail, et je vous soulagerai.
 
 
@@ -170,7 +170,7 @@ aliment céleste, le pain des Anges, qui n'est autre que vous-même, ô pain viv
 Voilà la source de l'amour et le triomphe de votre miséricorde. Que ne vous doit-on
 pas d'actions de grâces et de louanges pour ce bienfait ! Ô salutaire dessein que celui
 que vous conçûtes d'instituer votre Sacrement ! ô doux et délicieux banquet, où vous
-vous donnâtes vous-même pour nourriture ! Que vos oeuvres sont admirables,
+vous donnâtes vous-même pour nourriture ! Que vos œuvres sont admirables,
 Seigneur ! que votre puissance est grande ! que votre vérité est ineffable ! Vous avez
 dit et tout a été fait, et rien n'a été fait que ce que vous avez ordonné.
 
@@ -187,7 +187,7 @@ pour perpétuer à jamais le souvenir de votre amour.
 Réjouis-toi, mon âme, et rends grâce à Dieu d'un don si magnifique, d'une si
 ravissante consolation, qu'il t'a laissée dans cette vallée de larmes. Car toutes les fois
 qu'on célèbre ce mystère et qu'on reçoit le corps de Jésus-Christ, l'on consomme soi-
-même l'oeuvre de sa rédemption et on participe à tous les mérites du Christ. Car la
+même l'œuvre de sa rédemption et on participe à tous les mérites du Christ. Car la
 charité de Jésus-Christ ne s'affaiblit jamais, et jamais sa propitiation infinie ne
 s'épuise. Vous devez donc toujours vous disposer à cette action sainte par un
 renouvellement d'esprit, et méditer attentivement à ce grand mystère de salut.
@@ -209,14 +209,14 @@ l'âme de votre serviteur, parce que j'ai élevé mon âme vers vous, Seigneur J
 désire maintenant vous recevoir avec un respect plein d'amour; je désire que vous
 entriez dans ma maison pour mériter d'être béni de vous comme Zachée, et d'être
 compté parmi les enfants d'Abraham. Votre corps, voilà l'objet auquel mon âme
-aspire; mon coeur brûle d'être uni à vous.
+aspire; mon cœur brûle d'être uni à vous.
 
 Donnez-vous à moi, et ce don me suffit; car sans vous, rien ne me console. Je ne
 puis être sans vous et je ne saurais vivre si vous ne venez à moi. Il faut donc que je
 m'approche de vous souvent et que je vous reçoive comme le soutien de ma vie, de
 peur que privé de cette céleste nourriture, je ne tombe de défaillance dans le chemin.
 C'est ainsi, miséricordieux Jésus, que prêchant aux peuples et les guérissant de
-diverses langueurs, vous dites un jour: je ne veux pas les renvoyer à jeun dans leurs
+diverses langueurs, vous dites un jour : je ne veux pas les renvoyer à jeun dans leurs
 maisons, de peur que les forces ne leur manquent en route. Daignez donc en user de
 la même manière avec moi, vous qui avez voulu demeurer dans votre Sacrement pour
 la consolation des fidèles. Car vous êtes le doux aliment de l'âme; et celui qui vous
@@ -235,7 +235,7 @@ pas tous les jours assez bien disposé pour célébrer les divins mystères, j'a
 cependant d'en approcher aux temps convenables et de participer à une grâce si
 grande. Car c'est la principale consolation de l'âme fidèle tandis qu'elle voyage loin
 de vous dans un corps mortel, de se souvenir souvent de son Dieu et de recevoir son
-bien-aimé dans un coeur embrasé d'amour.
+bien-aimé dans un cœur embrasé d'amour.
 
 Ô prodige de votre tendresse pour nous ! Vous, Seigneur mon Dieu, qui donnez
 l'être et la vie à tous les esprits, vous daignez venir à une pauvre âme misérable et,
@@ -257,17 +257,17 @@ _Voix du disciple_
 
 Seigneur mon Dieu, prévenez votre serviteur de vos plus douces bénédictions, afin
 que je puisse approcher dignement et avec ferveur de votre auguste Sacrement.
-Rappelez mon coeur à vous; réveillez-moi du profond assoupissement où je languis.
+Rappelez mon cœur à vous; réveillez-moi du profond assoupissement où je languis.
 Visitez-moi pour me sauver, pour que je goûte intérieurement la douceur qui est
 cachée en abondance dans ce sacrement comme dans sa source. Faites briller aussi
 votre lumière à mes yeux afin qu'ils discernent un si grand mystère, et fortifiez ma foi
-pour le croire inébranlablement. Car c'est l'oeuvre de votre amour et non de la
+pour le croire inébranlablement. Car c'est l'œuvre de votre amour et non de la
 puissance humaine, c'est votre institution sacrée et non une invention de l'homme.
 Nul ne peut concevoir par lui-même des merveilles au-dessus de la pénétration des
 anges mêmes. Que pourrai-je donc, moi, pécheur indigne, moi, cendre et poussière,
 découvrir et comprendre d'un mystère si haut ?
 
-Seigneur, dans la simplicité de mon coeur, avec une foi ferme et sincère et sur le
+Seigneur, dans la simplicité de mon cœur, avec une foi ferme et sincère et sur le
 commandement que vous m'en avez fait, je m'approche de vous plein de confiance et
 de respect; et je crois sans hésiter que vous êtes ici présent dans ce Sacrement, et
 comme Dieu et comme homme. Vous voulez donc que je vous reçoive et que je
@@ -302,13 +302,13 @@ désaltérer parfaitement, j'approcherai cependant ma bouche de l'ouverture par 
 s'écoulent les eaux célestes afin d'en recueillir au moins une petite goutte pour apaiser
 ma soif, et ne pas tomber dans une entière sécheresse. Et si je ne puis encore être tout
 céleste et tout de feu comme les Chérubins et les Séraphins, je m'efforcerai pourtant
-de m'animer à la piété et de préparer mon coeur, afin qu'en participant avec humilité à
+de m'animer à la piété et de préparer mon cœur, afin qu'en participant avec humilité à
 ce sacrement de vie, je reçoive au moins quelque légère étincelle de ce feu divin. Bon
 Jésus, Sauveur très saint, suppléez vous-même par votre bonté et votre grâce à ce qui
-me manque, vous qui avez daigné appeler à vous tous les hommes en disant: Venez à
+me manque, vous qui avez daigné appeler à vous tous les hommes en disant : Venez à
 moi, vous tous qui êtes accablés de travail et de douleur, et je vous soulagerai.
 
-Je travaille à la sueur de mon front, mon coeur est brisé de douleur, le poids de mes
+Je travaille à la sueur de mon front, mon cœur est brisé de douleur, le poids de mes
 péchés m'accable, les tentations m'agitent, une foule de passions mauvaises
 m'enveloppent et me pressent, et il n'y a personne qui me secoure, qui me délivre, qui
 me sauve, si ce n'est vous, Seigneur mon Dieu, mon Sauveur, entre les mains de qui
@@ -343,7 +343,7 @@ mystères; maintenant soyez fidèle à offrir à Dieu le sacrifice avec ferveur,
 convenable, et que toute votre conduite soit irrépréhensible. Votre fardeau n'est pas
 plus léger; vous êtes lié au contraire par des obligations plus étroites, et obligé à une
 plus grande sainteté. Un prêtre doit être orné de toutes les vertus et donner aux autres
-l'exemple d'une vie pure. Ses moeurs ne doivent point ressembler à celles du peuple:
+l'exemple d'une vie pure. Ses mœurs ne doivent point ressembler à celles du peuple:
 il ne doit pas marcher dans les voies communes; mais il doit vivre comme les anges
 dans le ciel ou comme les hommes parfaits sur la terre.
 
@@ -372,7 +372,7 @@ je m'en approche indignement, j'irrite votre colère. Que ferai-je donc, mon Die
 protecteur, mon conseil dans tous mes besoins ? Montrez-moi la voie droite,
 enseignez-moi quelque court exercice pour me disposer à la sainte communion. Car il
 m'est important de savoir avec quelle ferveur et avec quel respect je dois préparer
-mon coeur, pour recevoir avec fruit votre Sacrement, ou pour vous offrir ce grand et
+mon cœur, pour recevoir avec fruit votre Sacrement, ou pour vous offrir ce grand et
 divin sacrifice.
 
 
@@ -382,13 +382,13 @@ _Voix du Bien-Aimé_
 
 Sur toutes choses, il faut que le prêtre qui se dispose à célébrer les saints mystères,
 à toucher et à recevoir le corps de Jésus-Christ, s'approche de ce sacrement avec une
-profonde humilité de coeur, un respect suppliant, une pleine foi et une pieuse
+profonde humilité de cœur, un respect suppliant, une pleine foi et une pieuse
 intention d'honorer Dieu. Examinez avec soin votre conscience et autant que vous le
 pourrez, purifiez-la par une contrition véritable et par une humble confession; de
 sorte que, délivré du poids de vos fautes, exempt de troubles et de remords, vous
 puissiez librement venir à moi. Ayez une vive douleur de tous vos péchés en général;
 déplorez en particulier ceux que vous commettez chaque jour; et si le temps vous le
-permet, confessez à Dieu dans le secret du coeur toutes les misères qui sont le fruit de
+permet, confessez à Dieu dans le secret du cœur toutes les misères qui sont le fruit de
 vos passions.
 
 Affligez-vous et gémissez d'être encore sous l'empire de la chair et du monde; Si
@@ -400,7 +400,7 @@ componction; Si prompt à vous livrer au relâchement et à la mollesse; si lent
 embrasser une vie austère et fervente; Si curieux de nouvelles et de ce qui attire les
 regards par sa beauté; si plein de répugnance pour ce qui abaisse et humilie; Si avide
 de beaucoup savoir; si avare pour donner, si ardent à retenir; Si inconsidéré dans vos
-discours; si impuissant à vous taire; Si déréglé dans vos moeurs; si indiscret dans vos
+discours; si impuissant à vous taire; Si déréglé dans vos mœurs; si indiscret dans vos
 actions; Si intempérant dans le manger et le boire; si sourd à la parole de Dieu; Si
 convoiteux de repos; si ennemi du travail; Si éveillé pour des récits frivoles; si
 appesanti par le sommeil durant les veilles saintes, si pressé d'en voir la fin, si peu
@@ -408,12 +408,12 @@ attentif en y assistant; Si dissipé en récitant l'office divin, si tiède en c
 aride dans la Communion; Si aisément distrait; si rarement bien recueilli; Si tôt ému
 de colère; si prompt à blesser les autres; Si enclin à juger le mal; si sévère à le
 reprendre; Si enivré de joie dans la prospérité; si abattu dans l'adversité; Si fécond en
-bonnes résolutions, et si stérile en bonnes oeuvres.
+bonnes résolutions, et si stérile en bonnes œuvres.
 
 Après avoir confessé et déploré avec une grande douleur et un vif sentiment de
 votre faiblesse ces défauts et tous les autres qui peuvent être en vous, formez un
 ferme propos de vous corriger et d'avancer dans la vertu. Offrez-vous ensuite avec
-une pleine résignation et sans aucune réserve sur l'autel de votre coeur, comme un
+une pleine résignation et sans aucune réserve sur l'autel de votre cœur, comme un
 holocauste perpétuel; en l'honneur de mon nom, m'abandonnant entièrement le soin
 de votre corps et de votre âme, afin d'obtenir ainsi la grâce de célébrer dignement le
 saint Sacrifice et de recevoir avec fruit le Sacrement de mon corps.
@@ -422,7 +422,7 @@ Car il n'est point d'oblation plus méritoire ni de satisfaction plus grande pou
 péchés, que de s'offrir soi-même sincèrement à Dieu en lui offrant, à la messe et dans
 la communion, le Corps de Jésus-Christ. Si l'homme fait ce qui est en lui et s'il a un
 vrai repentir toutes les fois qu'il s'approche de moi pour demander grâce et
-miséricorde: j'en jure par moi-même, dit le Seigneur, je ne me souviendrai plus de ses
+miséricorde : j'en jure par moi-même, dit le Seigneur, je ne me souviendrai plus de ses
 péchés, et ils lui seront tous pardonnés; car je ne veux point la mort du pécheur, mais
 qu'il se convertisse et qu'il vive.
 
@@ -434,7 +434,7 @@ _Voix du Bien-Aimé_
 Comme je me suis offert volontairement pour vos péchés à mon Père, les bras
 étendus sur la Croix et le corps nu, ne réservant rien et m'immolant tout entier pour
 apaiser Dieu, ainsi vous devez tous les jours, dans le sacrifice de la Messe, vous offrir
-à moi comme une hostie pure et sainte, du plus profond de votre coeur et de toutes les
+à moi comme une hostie pure et sainte, du plus profond de votre cœur et de toutes les
 puissances de votre âme. Que demandé-je de vous sinon que vous vous abandonniez
 à moi sans réserve ? Tout ce que vous me donnez hors de vous ne m'est rien, parce
 que c'est vous que je veux et non pas vos dons.
@@ -447,9 +447,9 @@ afin d'être tout à vous et que vous fussiez à jamais tout à moi. Mais si vou
 en vous-même, si vous ne vous abandonnez pas sans réserve à ma volonté, votre
 oblation n'est pas entière et nous ne serons pas unis parfaitement. L'oblation
 volontaire de vous-même entre les mains de Dieu doit donc précéder toutes vos
-oeuvres si vous voulez acquérir la grâce de la liberté. S'il en est si peu qui soient
+œuvres si vous voulez acquérir la grâce de la liberté. S'il en est si peu qui soient
 éclairés de ma lumière et qui jouissent de la liberté intérieure, c'est qu'ils ne savent
-pas se renoncer entièrement eux-mêmes. Je l'ai dit et ma parole est immuable: Si
+pas se renoncer entièrement eux-mêmes. Je l'ai dit et ma parole est immuable : Si
 quelqu'un ne renonce pas à tout, il ne peut être mon disciple. Si donc vous voulez être
 mon disciple, offrez-vous à moi avec toutes vos affections.
 
@@ -460,7 +460,7 @@ _Voix du disciple_
 
 Seigneur, à qui tout appartient dans le ciel et sur la terre, je veux aussi me donner à
 vous par une oblation volontaire; je veux être à vous pour toujours. Dans la simplicité
-de mon coeur, je m'offre à vous aujourd'hui, mon Dieu, pour vous servir à jamais,
+de mon cœur, je m'offre à vous aujourd'hui, mon Dieu, pour vous servir à jamais,
 pour vous obéir, pour m'immoler sans cesse à votre gloire. Recevez-moi avec
 l'oblation sainte de votre précieux corps que je vous offre aujourd'hui en présence des
 anges qui assistent invisiblement à ce sacrifice, et faites qu'il porte des fruits de salut
@@ -491,7 +491,7 @@ le rendiez plus digne de vous, plus agréable à vos yeux, et que vous me condui
 une heureuse fin, moi le plus inutile, le plus languissant et le dernier des hommes.
 
 Je vous offre encore tous ces pieux désirs des âmes fidèles, les besoins de mes
-parents, de mes amis, de mes frères, de mes soeurs, de tous ceux qui me sont chers,
+parents, de mes amis, de mes frères, de mes sœurs, de tous ceux qui me sont chers,
 de ceux qui m'ont fait, ou à d'autres, quelque bien pour l'amour de vous; de ceux qui
 ont demandé ou désiré que j'offrisse des prières et le saint Sacrifice pour eux et pour
 les leurs, soit qu'ils vivent encore en la chair, soit que le temps ait fini pour eux. Que
@@ -503,7 +503,7 @@ Je vous offre enfin des supplications et l'hostie de paix, principalement pour c
 qui m'ont offensé en quelque chose, qui m'ont attristé, qui m'ont blâmé, qui m'ont fait
 quelque tort ou quelque peine; et pour tous ceux aussi que j'ai moi-même affligés,
 troublés, blessés, scandalisés, le sachant ou sans le savoir, afin que vous nous
-pardonniez à tous nos péchés et nos offenses mutuelles. Ôtez de nos coeurs, ô mon
+pardonniez à tous nos péchés et nos offenses mutuelles. Ôtez de nos cœurs, ô mon
 Dieu ! le soupçon, l'aigreur, la colère, tout ce qui divise, tout ce qui peut altérer la
 charité et diminuer l'amour fraternel. Ayez pitié, Seigneur, ayez pitié de ces pauvres
 qui implorent votre grâce, votre miséricorde; et faites que nous soyons dignes de jouir
@@ -535,7 +535,7 @@ nous.
 
 Souvent aussi l'on s'en éloigne par un désir trop vif de la ferveur sensible et parce
 qu'on a conçu de l'inquiétude sur sa confessions. Agissez selon le conseil des
-personnes prudentes et bannissez de votre coeur l'anxiété et les scrupules, parce qu'ils
+personnes prudentes et bannissez de votre cœur l'anxiété et les scrupules, parce qu'ils
 détruisent la piété et sont un obstacle à la grâce de Dieu. Ne vous privez point de la
 sainte communion dès que vous éprouverez quelque trouble ou une légère peine de
 conscience; mais confessez-vous au plus tôt et pardonnez sincèrement aux autres les
@@ -562,7 +562,7 @@ de telle sorte et qui conserve sa conscience si pure, qu'il serait préparé à 
 tous les jours et communierait en effet, s'il lui était permis et qu'il pût le faire sans
 singularité ! Si quelqu'un s'en abstient quelquefois par humilité ou pour une cause
 légitime, on doit louer son respect. Mais si sa ferveur s'est refroidie, il doit se ranimer
-et faire tout ce qu'il peut: et Dieu secondera ses désirs, à cause de la droiture de sa
+et faire tout ce qu'il peut : et Dieu secondera ses désirs, à cause de la droiture de sa
 volonté qu'il considère principalement.
 
 Que si des motifs légitimes l'empêchent d'approcher de la sainte Table, il
@@ -593,7 +593,7 @@ lui présente d'autre aliment que vous-même, son unique bien-aimé, le plus che
 tous ses désirs ! Oh ! qu'il me serait doux de répandre en votre présence des pleurs
 d'amour et d'arroser vos pieds de mes larmes comme Madeleine ! Mais où est cette
 tendre piété et cette abondante effusion de larmes saintes ? Certes, en votre présence
-et celle des saints anges, tout mon coeur devrait s'embraser et se fondre de joie. Car
+et celle des saints anges, tout mon cœur devrait s'embraser et se fondre de joie. Car
 vous m'êtes véritablement présent dans votre Sacrement, quoique caché sous des
 apparences étrangères.
 
@@ -659,7 +659,7 @@ fréquemment au Sacrement de Jésus-Christ.
 Qu'ils soient simples et chastes les yeux qui contemplent habituellement le Corps
 de Jésus-Christ. Qu'elles soient pures et élevées au ciel les mains qui touchent sans
 cesse le Créateur du ciel et de la terre. C'est aux prêtres surtout qu'il est dit dans la
-Loi: Soyez saints, parce que je suis saint, moi le Seigneur votre Dieu.
+Loi : Soyez saints, parce que je suis saint, moi le Seigneur votre Dieu.
 
 Que votre grâce nous aide, ô Dieu tout-puissant ! nous qui avons été revêtus du
 sacerdoce, afin que nous puissions vous servir dignement, avec une vraie piété et une
@@ -673,10 +673,10 @@ ferveur.
 
 _Voix du Bien-Aimé_
 
-Je suis l'ami de la pureté et c'est de moi que vient toute sainteté. Je cherche un coeur
+Je suis l'ami de la pureté et c'est de moi que vient toute sainteté. Je cherche un cœur
 pur, et là est le lieu de mon repos. Préparez-moi un grand cénacle et je célébrerai chez
 vous la Pâque avec mes disciples. Si vous voulez que je vienne à vous et que je
-demeure en vous, purifiez-vous du vieux levain et nettoyez la maison de votre coeur.
+demeure en vous, purifiez-vous du vieux levain et nettoyez la maison de votre cœur.
 Bannissez-en les pensées du siècle et le tumulte des vices. Comme le passereau qui
 gémit sous un toit solitaire, rappelez-vous vos péchés dans l'amertume de votre âme.
 Car un ami prépare toujours à son ami le lieu le meilleur et le plus beau; et c'est ainsi
@@ -701,7 +701,7 @@ Vous avez besoin de moi et je n'ai pas besoin de vous. Vous ne venez pas à moi 
 me sanctifier, mais c'est moi qui viens à vous pour vous rendre meilleur et plus saint.
 Vous venez pour que je vous sanctifie et pour vous unir à moi, pour recevoir une
 grâce nouvelle et vous enflammer d'une nouvelle ardeur d'avancer dans la vertu. Ne
-négligez point cette grâce; mais préparez votre coeur avec un soin extrême et
+négligez point cette grâce; mais préparez votre cœur avec un soin extrême et
 recevez-y votre bien-aimé.
 
 Mais il ne faut pas seulement vous exciter à la ferveur avant la communion, il faut
@@ -716,15 +716,15 @@ vous vous devez donner sans réserve; de sorte que, dégagé de toute inquiétud
 ne viviez plus en vous, mais en moi.
 
 
-== Que le fidèle doit désirer de tout son coeur de s'unir à Jésus- Christ dans la Communion
+== Que le fidèle doit désirer de tout son cœur de s'unir à Jésus- Christ dans la Communion
 
 _Voix du disciple_
 
-Qui me donnera, Seigneur, de vous trouver seul et de vous ouvrir tout mon coeur, et
+Qui me donnera, Seigneur, de vous trouver seul et de vous ouvrir tout mon cœur, et
 de jouir de vous comme mon âme le désire; de sorte que je ne sois plus pour personne
 un objet de mépris, et qu'étranger à toute créature, vous me parliez seul, et moi à
 vous, comme un ami parle à son ami et s'assied avec lui à la même table ? Ce que je
-demande, ce que je désire, c'est d'être uni tout entier à vous, que mon coeur se
+demande, ce que je désire, c'est d'être uni tout entier à vous, que mon cœur se
 détache de toutes les choses créées et que, par la sainte communion et la fréquente
 célébration des divins mystères, j'apprenne à goûter les choses du ciel et de l'éternité.
 Ah ! Seigneur mon Dieu, quand, m'oubliant tout à fait moi-même, serai-je
@@ -740,7 +740,7 @@ vous qui, pour montrer à vos enfants tout votre amour, daignez les rassasier d'
 délicieux qui descend du ciel !" Certes, nul autre peuple, quelque grand qu'il soit, n'a
 des dieux qui s'approchent de lui, comme vous, ô mon Dieu ! Vous vous rendez
 présent à tous vos fidèles, vous donnant vous-même à eux chaque jour pour être leur
-nourriture et pour qu'ils jouissent de vous, afin de les consoler et d'élever leur coeur
+nourriture et pour qu'ils jouissent de vous, afin de les consoler et d'élever leur cœur
 vers le ciel.
 
 Quel est le peuple, en effet, comparable au peuple chrétien ? quelle est, sous le ciel,
@@ -748,11 +748,11 @@ la créature aussi chérie que l'âme fervente en qui Dieu daigne entrer pour la
 sa chair glorieuse ? Ô faveur ineffable ! ô condescendance merveilleuse ! ô amour
 infini, qui n'a été montré qu'à l'homme ! Mais que rendrai-je au Seigneur pour cette
 grâce, pour cette immense charité ? Je ne puis rien offrir à Dieu qui lui soit plus
-agréable que de lui donner mon coeur sans réserve et de m'unir intimement à lui.
+agréable que de lui donner mon cœur sans réserve et de m'unir intimement à lui.
 Alors mes entrailles tressailliront de joie lorsque mon âme sera parfaitement unie à
-Dieu. Alors il me dira: Si vous voulez être avec moi, je veux être avec vous. Et je lui
-répondrai: Daignez demeurer avec moi, Seigneur: je désire ardemment d'être avec
-vous. Tout mon désir et que mon coeur vous soit uni.
+Dieu. Alors il me dira : Si vous voulez être avec moi, je veux être avec vous. Et je lui
+répondrai : Daignez demeurer avec moi, Seigneur : je désire ardemment d'être avec
+vous. Tout mon désir et que mon cœur vous soit uni.
 
 
 == Du désir ardent que quelques âmes saintes ont de recevoir le Corps de Jésus-Christ
@@ -763,22 +763,22 @@ Combien est grande, ô mon Dieu ! l'abondance de douceur que vous avez réservé
 ceux qui vous craignent ! Quand je viens à considérer avec quel désir et quel amour
 quelques âmes fidèles s'approchent, Seigneur, de votre Sacrement, alors je me
 confonds souvent en moi-même et je rougis de me présenter à votre autel et à la table
-sacrée de la Communion avec tant de froideur et de sécheresse; d'y porter un coeur si
+sacrée de la Communion avec tant de froideur et de sécheresse; d'y porter un cœur si
 aride, si tiède, et de ne point ressentir cet attrait puissant, cette ardeur qu'éprouvent
 quelques-uns de vos serviteurs qui, en se disposant à vous recevoir, ne sauraient
 retenir leurs larmes tant le désir qui les presse est grand et leur émotion profonde ! Ils
-ont soif de vous, ô mon Dieu ! qui êtes la source d'eau vive, et leur coeur et leur
+ont soif de vous, ô mon Dieu ! qui êtes la source d'eau vive, et leur cœur et leur
 bouche s'ouvrent également pour s'y désaltérer. Rien ne peut rassasier ni tempérer
 leur faim que votre sacré Corps, qu'ils reçoivent avec une sainte avidité et les
 transports d'une joie ineffable.
 
 Oh ! que cette ardente foi est une preuve sensible de votre présence dans le
 Sacrement ! Car ils reconnaissent véritablement le Seigneur dans la fraction du pain,
-ceux dont le coeur est tout brûlant lorsque Jésus est avec eux. Qu'une affection si
+ceux dont le cœur est tout brûlant lorsque Jésus est avec eux. Qu'une affection si
 tendre, un amour si vif est souvent loin de moi ! Soyez-moi propice, ô bon Jésus,
 plein de douceur et de miséricorde ! Ayez pitié d'un pauvre mendiant et faites que
 j'éprouve au moins quelquefois, dans la sainte Communion, quelques mouvements de
-cet amour qui embrase tout le coeur, afin que ma foi s'affermisse, que mon espérance
+cet amour qui embrase tout le cœur, afin que ma foi s'affermisse, que mon espérance
 en votre bonté s'accroisse et qu'enflammé par cette manne céleste, jamais la charité ne
 s'éteigne en moi.
 
@@ -813,20 +813,20 @@ et si l'on ne doit pas plutôt compter pour beaucoup ce qui nous prive d'un si g
 bien. Mais quel que soit cet obstacle, si vous le surmontez parfaitement, vous
 obtiendrez ce que vous demandez.
 
-Car dès que vous vous serez donné à Dieu de tout votre coeur, et que, cessant
+Car dès que vous vous serez donné à Dieu de tout votre cœur, et que, cessant
 d'errer d'objets en objets au gré de vos désirs, vous vous serez remis entièrement entre
 ses mains, vous trouverez la paix dans cette union, parce que rien ne vous sera doux
 que ce qui peut lui plaire. Quiconque élèvera donc son intention vers Dieu avec un
-coeur simple et se dégagera de tout amour et de toute aversion déréglée des créatures,
+cœur simple et se dégagera de tout amour et de toute aversion déréglée des créatures,
 sera propre à recevoir la grâce et digne du don de la ferveur. Car Dieu répand sa
 bénédiction où il trouve des vases vides; et plus un homme renonce parfaitement aux
 choses d'ici-bas, plus il se méprise et meurt à lui-même, plus la grâce vient à lui
-promptement, plus elle remplit son coeur, et l'affranchit et l'élève.
+promptement, plus elle remplit son cœur, et l'affranchit et l'élève.
 
 Alors, ravi d'étonnement, il verra ce qu'il n'avait point vu, et il sera dans
-l'abondance, et son coeur se dilatera, parce que le Seigneur est avec lui, et qu'il s'est
+l'abondance, et son cœur se dilatera, parce que le Seigneur est avec lui, et qu'il s'est
 lui-même remis sans réserve et pour toujours entre ses mains. C'est ainsi que sera
-béni l'homme qui cherche Dieu de tout son coeur, et qui n'a pas reçu son âme en vain.
+béni l'homme qui cherche Dieu de tout son cœur, et qui n'a pas reçu son âme en vain.
 Ce disciple fidèle, en recevant la sainte Eucharistie, mérite d'obtenir la grâce d'une
 union plus grande avec le Seigneur, parce qu'il ne considère point ce qui lui est doux,
 ce qui le console, mais, au-dessus de toute douceur et de toute consolation, l'honneur
@@ -851,7 +851,7 @@ miséricorde. Rassasiez ce mendiant affamé, réchauffez ma froideur du feu de v
 amour, éclairez mes ténèbres par la lumière de votre présence. Changez pour moi
 toutes les choses de la terre en amertume; faites que tout ce qui m'est dur et pénible
 fortifie ma patience; que je méprise et que j'oublie tout ce qui est créé, tout ce qui
-passe. Elevez mon coeur à vous dans le ciel et ne me laissez pas errer sur la terre.
+passe. Elevez mon cœur à vous dans le ciel et ne me laissez pas errer sur la terre.
 Que, de ce moment et à jamais, rien ne me soit doux que vous seul, parce que vous
 êtes ma nourriture, mon breuvage, mon amour, ma joie, ma douceur, et tout mon
 bien.
@@ -863,7 +863,7 @@ rassasié et désaltéré; mais usez envers moi de la même miséricorde dont vo
 souvent usé avec vos saints, d'une manière si merveilleuse. Qui pourrait s'étonner
 qu'en m'approchant de vous je fusse entièrement consumé par votre ardeur, puisque
 vous êtes un feu qui brûle toujours et ne s'éteint jamais, un amour qui purifie les
-coeurs et qui éclaire l'intelligence !
+cœurs et qui éclaire l'intelligence !
 
 
 == Du désir ardent de recevoir Jésus-Christ
@@ -871,14 +871,14 @@ coeurs et qui éclaire l'intelligence !
 _Voix du disciple_
 
 Seigneur, je désire vous recevoir avec un pieux et ardent amour, avec toute la
-tendresse et l'affection de mon coeur, comme vous ont désiré dans la communion tant
+tendresse et l'affection de mon cœur, comme vous ont désiré dans la communion tant
 de saints et de fidèles qui vous étaient si chers à cause de leur vie pure et de leur
 fervente piété. Ô mon Dieu ! Amour éternel, mon unique bien, ma félicité toujours
 durable, je désire vous recevoir avec toute la ferveur, tout le respect qu'ait jamais pu
 ressentir aucun de vos saints.
 
 Et quoique je sois indigne d'éprouver ces admirables sentiments d'amour, je vous
-offre cependant toute l'affection de mon coeur, comme si j'étais animé seul de ces
+offre cependant toute l'affection de mon cœur, comme si j'étais animé seul de ces
 désirs enflammés qui vous sont si agréables. Tout ce que peut concevoir et désirer
 une âme pieuse, je vous le présente, je vous l'offre, avec un respect profond et une
 vive ardeur. Je ne veux rien me réserver mais je veux vous offrir sans réserve le
@@ -887,7 +887,7 @@ et mon Rédempteur, je désire vous recevoir aujourd'hui avec autant de ferveur 
 respect, avec autant de zèle pour votre gloire, avec autant de reconnaissance, de
 sainteté, d'amour, de foi, d'espérance et de pureté, que vous désira et vous reçut votre
 sainte Mère, la glorieuse Vierge Marie, lorsque l'ange lui annonçant le mystère de
-l'Incarnation, elle répondit avec une pieuse humilité: Voici la servante du Seigneur,
+l'Incarnation, elle répondit avec une pieuse humilité : Voici la servante du Seigneur,
 qu'il me soit fait selon votre parole.
 
 Et de même que votre bienheureux précurseur, le plus grand des saints, Jean-
@@ -896,7 +896,7 @@ présence, par un mouvement du Saint-Esprit, et que, vous voyant ensuite convers
 avec les hommes, il disait avec un tendre amour et en s'humiliant profondément:
 L'ami de l'époux qui est près de lui et qui l'écoute, est ravi d'allégresse, parce qu'il
 entend la voix de l'époux, ainsi je voudrais être embrasé des plus saints, des plus
-ardents désirs, et m'offrir à vous de toute l'affection de mon coeur. C'est pourquoi je
+ardents désirs, et m'offrir à vous de toute l'affection de mon cœur. C'est pourquoi je
 vous offre tous les transports d'amour et de joie, les extases, les ravissements, les
 révélations, les visions célestes de toutes les âmes saintes, avec les hommages que
 vous rendent et vous rendront à jamais toutes les créatures dans le ciel et sur la terre;
@@ -904,10 +904,10 @@ je vous les offre ainsi que leurs vertus, pour moi et pour tous ceux qui se sont
 recommandés à mes prières, afin qu'ils célèbrent dignement vos louanges et vous
 glorifient éternellement.
 
-Seigneur mon Dieu, recevez mes voeux, et le désir qui m'anime de vous louer, de
+Seigneur mon Dieu, recevez mes vœux, et le désir qui m'anime de vous louer, de
 vous bénir avec l'amour immense, infini, dû à votre ineffable grandeur. Voilà ce que
 je vous offre, et ce que je voudrais vous offrir chaque jour et à chaque moment, et je
-prie et je conjure de tout mon coeur tous les esprits célestes et tous vos fidèles
+prie et je conjure de tout mon cœur tous les esprits célestes et tous vos fidèles
 serviteurs de s'unir à moi pour vous louer et pour vous rendre de dignes actions de
 grâces.
 
@@ -958,6 +958,6 @@ La raison et toutes les recherches naturelles doivent suivre la foi et non la pr
 ni la combattre. Car la foi et l'amour s'élèvent par-dessus tout, et opèrent d'une
 manière inconnue dans le très saint et très auguste Sacrement. Dieu, éternel,
 immense, infiniment puissant, fait dans le ciel et sur la terre des choses grandes,
-incompréhensibles, et nul ne saurait pénétrer ses merveilles. Si les oeuvres de Dieu
+incompréhensibles, et nul ne saurait pénétrer ses merveilles. Si les œuvres de Dieu
 étaient telles que la raison de l'homme pût aisément les comprendre, elles cesseraient
 d'être merveilleuses et ne pourraient être appelées ineffables.

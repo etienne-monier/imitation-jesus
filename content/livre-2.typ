@@ -6,29 +6,29 @@
 == De la conversation intérieure
 
 Le royaume de Dieu est au dedans de vous, dit le Seigneur. Revenez à Dieu de tout
-votre coeur, laissez là ce misérable monde, et votre âme trouvera le repos. Apprenez à
+votre cœur, laissez là ce misérable monde, et votre âme trouvera le repos. Apprenez à
 mépriser les choses extérieures et à vous donner aux intérieures, et vous verrez le
 royaume de Dieu venir en vous. Car le royaume de Dieu est paix et joie dans l'Esprit
 Saint, ce qui n'est pas donné aux impies. Jésus-Christ viendra à vous et il vous
 remplira de ses consolations, si vous lui préparez au-dedans de vous une demeure
 digne de lui. Toute sa gloire et toute sa beauté est intérieure; c'est dans le secret du
-coeur qu'il se plaît. Il visite souvent l'homme intérieur et ses entretiens sont doux, ses
+cœur qu'il se plaît. Il visite souvent l'homme intérieur et ses entretiens sont doux, ses
 consolations ravissantes; sa paix est inépuisable, et sa familiarité incompréhensible.
 
-Ame fidèle, hâtez-vous donc de préparer votre coeur pour l'époux, afin qu'il daigne
-venir et habiter en vous. Car il a dit: Si quelqu'un m'aime, il gardera ma parole, et
+Ame fidèle, hâtez-vous donc de préparer votre cœur pour l'époux, afin qu'il daigne
+venir et habiter en vous. Car il a dit : Si quelqu'un m'aime, il gardera ma parole, et
 nous viendrons à lui, et nous ferons en lui notre demeure. Laissez donc entrer Jésus
 en vous, et n'y laissez entrer que lui. Lorsque vous posséderez Jésus, vous serez riche
 et lui seul vous suffit. Il veillera sur vous, il prendra de vous un soin fidèle en toutes
 choses, de sorte que vous n'aurez plus besoin de rien attendre des hommes. Car les
 hommes changent vite et vous manquent tout d'un coup; mais Jésus-Christ demeure
-éternellement: inébranlable dans sa constance, il est près de vous jusqu'à la fin.
+éternellement : inébranlable dans sa constance, il est près de vous jusqu'à la fin.
 
 On ne doit guère compter sur un homme fragile et mortel, encore bien qu'il vous
 soit utile et que vous soyez chers l'un à l'autre, et il n'y a pas lieu de s'attrister
 beaucoup si quelquefois il vous traverse et s'élève contre vous. Ceux qui sont
-aujourd'hui pour vous pourront être demain contre vous et réciproquement: les
-hommes changent comme le vent. Mettez en Dieu toute votre confiance: qu'il soit
+aujourd'hui pour vous pourront être demain contre vous et réciproquement : les
+hommes changent comme le vent. Mettez en Dieu toute votre confiance : qu'il soit
 votre crainte et votre amour; il répondra pour vous et il fera ce qui est le meilleur.
 Vous n'avez point ici de demeure stable; en quelque lieu que vous soyez vous êtes
 étranger et voyageur, et vous n'aurez jamais de repos que vous ne soyez uni
@@ -54,7 +54,7 @@ s'il ne vous arrive rien de pénible ? Si vous ne voulez rien souffrir, comment 
 vous ami de Jésus-Christ ? Souffrez avec Jésus-Christ et pour Jésus-Christ, si vous
 voulez régner avec Jésus-Christ.
 
-Si une seule fois vous étiez entré bien avant dans le coeur de Jésus, et que vous
+Si une seule fois vous étiez entré bien avant dans le cœur de Jésus, et que vous
 eussiez ressenti quelque mouvement de son amour, que vous auriez peu de souci de
 ce qui peut vous contrarier ou vous plaire ! Vous vous réjouiriez d'un outrage reçu
 parce que l'amour de Jésus apprend à l'homme à se mépriser lui-même. Celui qui
@@ -76,7 +76,7 @@ même.
 Si vous étiez ce que vous devez être, entièrement libre et détaché, tout contribuerait
 à votre bien et à votre progrès. Mais beaucoup de choses vous déplaisent et souvent
 vous troublent, parce que vous n'êtes pas encore tout à fait mort à vous-même et
-séparé des choses de la terre. Rien n'embarrasse et ne souille tant le coeur de l'homme
+séparé des choses de la terre. Rien n'embarrasse et ne souille tant le cœur de l'homme
 que l'amour impur des créatures. Si vous rejetez les consolations du dehors, vous
 pourrez contempler les choses du ciel et goûter souvent les joies intérieures.
 
@@ -87,7 +87,7 @@ Inquiétez-vous peu qui est pour vous ou contre vous; mais prenez soin que Dieu
 soit avec vous en tout ce que vous faites. Ayez la conscience pure et Dieu prendra
 votre défense. Toute la malice des hommes ne saurait nuire à celui que Dieu veut
 protéger. Si vous savez vous taire et souffrir, Dieu sans doute vous assistera. Il sait le
-temps et la manière de vous délivrer: abandonnez-vous donc à lui. C'est de Dieu que
+temps et la manière de vous délivrer : abandonnez-vous donc à lui. C'est de Dieu que
 vient le secours, c'est lui qui délivre de la confusion. Il est souvent très utile, pour
 nous retenir dans une plus grande humilité, que les autres soient instruits de nos
 défauts et qu'ils nous les reprochent.
@@ -103,11 +103,11 @@ si vous ne vous croyez au-dessous de tous les autres.
 
 == De l'homme pacifique
 
-Conservez-vous premièrement dans la paix: et alors vous pourrez la donner aux
+Conservez-vous premièrement dans la paix : et alors vous pourrez la donner aux
 autres. Le pacifique est plus utile que le savant. Un homme passionné change le bien
 en mal, et croit le mal aisément. L'homme paisible et bon ramène tout au bien. Celui
 qui est affermi dans la paix ne pense mal de personne; mais l'homme inquiet et
-mécontent est agité de divers soupçons: il n'a jamais de repos, et n'en laisse point aux
+mécontent est agité de divers soupçons : il n'a jamais de repos, et n'en laisse point aux
 autres. Il dit souvent ce qu'il ne faudrait pas dire, et ne fait pas ce qu'il faudrait faire.
 Attentif aux devoirs des autres, il néglige ses propres devoirs. Ayez donc
 premièrement du zèle pour vous-même, et vous pourrez ensuite avec justice l'étendre
@@ -124,7 +124,7 @@ hommes durs, pervers, sans règle, ou qui nous contrarient, c'est une grande gr�
 vertu courageuse digne d'être louée.
 
 Il y en a qui sont en paix avec eux-mêmes et avec les autres. Et il y en a qui n'ont
-point la paix, et qui troublent celle d'autrui: ils sont à charge aux autres, et plus à
+point la paix, et qui troublent celle d'autrui : ils sont à charge aux autres, et plus à
 charge à eux-mêmes. Il y en a, enfin, qui se maintiennent dans la paix et qui
 s'efforcent de la rendre aux autres. Au reste toute notre paix dans cette misérable vie,
 consiste plus dans une souffrance humble que dans l'exemption de la souffrance. Qui
@@ -136,16 +136,16 @@ maître du monde, ami de Jésus-Christ et héritier du ciel.
 
 L'homme s'élève au-dessus de la terre sur deux ailes, la simplicité et la pureté. La
 simplicité doit être dans l'intention, et la pureté dans l'affection. La simplicité cherche
-Dieu, la pureté le trouve et le goûte. Nulle bonne oeuvre ne vous sera difficile si vous
+Dieu, la pureté le trouve et le goûte. Nulle bonne œuvre ne vous sera difficile si vous
 êtes libre au-dedans de toute affection déréglée. Si vous ne voulez que ce que Dieu
-veut et ce qui est utile au prochain, vous jouirez de la liberté intérieure. Si votre coeur
+veut et ce qui est utile au prochain, vous jouirez de la liberté intérieure. Si votre cœur
 était droit, alors toute créature vous serait un miroir de vie et un livre rempli de
 saintes instructions. Il n'est point de créature si petite et si vile qui ne présente
 quelque image de la bonté de Dieu.
 
 Si vous aviez en vous assez d'innocence et de pureté, vous verriez tout sans
-obstacle. Un coeur pur pénètre le ciel et l'enfer. Chacun juge des choses du dehors
-selon ce qu'il est au-dedans de lui-même. S'il est quelque joie dans le monde, le coeur
+obstacle. Un cœur pur pénètre le ciel et l'enfer. Chacun juge des choses du dehors
+selon ce qu'il est au-dedans de lui-même. S'il est quelque joie dans le monde, le cœur
 pur la possède. Et s'il y a des angoisses et des tribulations, avant tout elles sont
 connues de la mauvaise conscience. Comme le fer mis au feu perd sa rouille et
 devient tout étincelant, ainsi celui qui se donne sans réserve à Dieu se dépouille de sa
@@ -170,7 +170,7 @@ souffrons des autres; mais tout ce qu'ils ont à souffrir de nous, nous n'y song
 point. Qui se jugerait équitablement soi-même, sentirait qu'il n'a droit de juger
 personne sévèrement.
 
-L'homme intérieur préfère le soin de soi-même à tout autre soin: et lorsqu'on est
+L'homme intérieur préfère le soin de soi-même à tout autre soin : et lorsqu'on est
 attentif à soi, on se tait aisément sur les autres. Vous ne serez jamais un homme
 intérieur et vraiment pieux, si vous ne gardez le silence sur ce qui vous est étranger, et
 si vous ne vous occupez principalement de vous-même. Si vous n'avez que Dieu et
@@ -185,7 +185,7 @@ que de ce monde. Qu'il n'y ait rien de grand à vos yeux, d'élevé, de doux, d'
 que Dieu seul, ou ce qui vient de Dieu. Regardez comme une pure vanité toute
 consolation qui repose sur la créature. L'âme qui aime Dieu méprise tout ce qui est
 au-dessous de Dieu. Dieu seul, éternel, immense et remplissant tout, est la
-consolation de l'âme et la vraie joie du coeur.
+consolation de l'âme et la vraie joie du cœur.
 
 
 == De la joie d'une bonne conscience
@@ -194,21 +194,21 @@ La gloire de l'homme de bien est le témoignage de sa conscience. Ayez la
 conscience pure et vous posséderez toujours la joie. La bonne conscience peut
 supporter beaucoup de choses et elle est pleine de joie dans les adversités. La
 mauvaise conscience est toujours inquiète et troublée. Vous jouirez d'un repos
-ravissant si votre coeur ne vous reproche rien. Ne vous réjouissez que d'avoir fait le
+ravissant si votre cœur ne vous reproche rien. Ne vous réjouissez que d'avoir fait le
 bien. Les méchants n'ont jamais de véritable joie, ils ne possèdent point la paix
 intérieure, parce qu'il n'y a point de paix pour l'impie, dit le Seigneur. Et s'ils disent:
 Nous sommes dans la paix, les maux ne viendront pas sur nous; et qui oserait nous
-nuire ? ne les croyez pas car la colère de Dieu se lèvera soudain, et leurs oeuvres
+nuire ? ne les croyez pas car la colère de Dieu se lèvera soudain, et leurs œuvres
 seront réduites à rien, et leurs pensées périront.
 
-Se faire un sujet de gloire de la tribulation n'est pas difficile à celui qui aime: car se
+Se faire un sujet de gloire de la tribulation n'est pas difficile à celui qui aime : car se
 glorifier ainsi, c'est se glorifier dans la croix de Jésus-Christ. La gloire que les
 hommes donnent et reçoivent est courte. La tristesse accompagne toujours la gloire
 du monde. La gloire des bons est dans leur conscience et non dans la bouche des
 hommes. L'allégresse des justes est de Dieu et en Dieu, et leur joie vient de la vérité.
 Celui qui désire la gloire véritable et éternelle dédaigne la gloire du temps. Et celui
 qui recherche la gloire du temps et ne la méprise pas de toute son âme montre qu'il
-aime peu la gloire éternelle. Il jouit d'une grande tranquillité de coeur, celui que
+aime peu la gloire éternelle. Il jouit d'une grande tranquillité de cœur, celui que
 n'émeut ni la louange ni le blâme.
 
 Il sera aisément en paix et content, celui dont la conscience est pure. Vous n'êtes pas
@@ -216,7 +216,7 @@ plus saint parce qu'on vous loue, ni plus imparfait parce qu'on vous blâme. Vou
 ce que vous êtes, et tout ce qu'on pourra dire ne vous fera pas plus grand que vous ne
 l'êtes aux yeux de Dieu. Si vous considérez bien ce que vous êtes en vous-même,
 vous vous embarrasserez peu de ce que les hommes disent de vous. L'homme voit le
-visage, mais Dieu voit le coeur. L'homme regarde les actions; mais Dieu pèse
+visage, mais Dieu voit le cœur. L'homme regarde les actions; mais Dieu pèse
 l'intention. Faire toujours bien et s'estimer peu, c'est le signe d'une âme humble. Ne
 vouloir de consolation d'aucune créature, c'est la marque d'une grande pureté et d'une
 grande confiance intérieure.
@@ -241,7 +241,7 @@ vous le vouliez ou non, il vous faudra un jour être séparé de tout.
 
 Vivant et mourant, tenez-vous donc près de Jésus et confiez-vous à la fidélité de
 celui qui seul peut vous secourir lorsque tout vous manquera. Tel est votre bien-aimé,
-qu'il ne veut point de partage; il veut posséder seul votre coeur et y régner comme un
+qu'il ne veut point de partage; il veut posséder seul votre cœur et y régner comme un
 roi sur le trône qui est à lui. Si vous saviez bannir de votre âme toutes les créatures,
 Jésus se plairait à demeurer en vous. Vous trouverez avoir perdu presque tout ce que
 vous aurez établi sur les hommes et non sur Jésus ! Ne vous appuyez point sur un
@@ -290,19 +290,19 @@ uniquement, parce qu'il est le seul ami bon, fidèle, entre tous les amis. Aimez
 à cause de lui vos amis et vos ennemis, et priez-le pour tous afin que tous le
 connaissent et l'aiment. Ne souhaitez jamais d'obtenir aucune préférence dans l'estime
 ou l'amour des hommes; car cela n'appartient qu'à Dieu, qui n'a point d'égal. Ne
-désirez point que quelqu'un s'occupe de vous dans son coeur, et ne soyez vous-même
+désirez point que quelqu'un s'occupe de vous dans son cœur, et ne soyez vous-même
 préoccupé de l'amour de personne; mais que Jésus soit en vous et en tout homme de
 bien
 
 Soyez pur et libre au-dedans, sans aucune attache à la créature. Il vous faut être
-dépouillé de tout, et offrir à Dieu un coeur pur, si vous voulez être libre et goûter
+dépouillé de tout, et offrir à Dieu un cœur pur, si vous voulez être libre et goûter
 comme le Seigneur est doux. Et certes, jamais vous n'y parviendrez si sa grâce ne
-vous prévient et ne vous attire: de sorte qu'ayant exclu et banni tout le reste, vous
+vous prévient et ne vous attire : de sorte qu'ayant exclu et banni tout le reste, vous
 soyez seul uni à lui seul. Car lorsque la grâce de Dieu visite l'homme, alors il peut
 tout; et quand elle se retire, alors il est pauvre et infirme, et ne semble réservé qu'aux
 châtiments. En cet état même, il ne doit ni se laisser abattre ni désespérer, mais il doit
 se soumettre avec calme à la volonté de Dieu et souffrir pour l'amour de Jésus-Christ
-tout ce qui lui arrive: car l'été succède à l'hiver, après la nuit revient le jour, et après la
+tout ce qui lui arrive : car l'été succède à l'hiver, après la nuit revient le jour, et après la
 tempête une grande sérénité.
 
 
@@ -311,7 +311,7 @@ tempête une grande sérénité.
 Il n'est pas difficile de mépriser les consolations humaines quand on jouit des
 consolations divines. Mais il est grand et très grand de consentir à être privé tout à la
 fois des consolations des hommes et de celles de Dieu, de supporter volontairement
-pour sa gloire cet exil du coeur, de ne se rechercher en rien, et de ne faire aucun
+pour sa gloire cet exil du cœur, de ne se rechercher en rien, et de ne faire aucun
 retour sur ses propres mérites. Qu'y a-t'il d'étonnant si vous êtes rempli d'allégresse et
 de ferveur lorsque la grâce descend en vous ? C'est pour tous l'heure désirable. Il
 avance aisément et avec joie, celui que la grâce soulève. Comment sentirait-il son
@@ -340,23 +340,23 @@ vous en élevez pas, n'en ayez point trop de joie, n'en concevez pas une vaine
 présomption. Que cette grâce, au contraire, vous rende plus humble, plus vigilant,
 plus timide dans toutes vos actions; car ce moment passera et sera suivi de la
 tentation. Quand la consolation vous est ôtée, ne vous découragez pas aussitôt; mais
-attendez avec humilité et avec patience que Dieu vous visite de nouveau: car il est
+attendez avec humilité et avec patience que Dieu vous visite de nouveau : car il est
 tout-puissant pour vous consoler encore plus. Cela n'est ni nouveau ni étrange pour
-ceux qui ont l'expérience des voies de Dieu: les grands saints et les anciens prophètes
+ceux qui ont l'expérience des voies de Dieu : les grands saints et les anciens prophètes
 ont souvent éprouvé ces vicissitudes.
 
-Un d'eux, sentant la présence de la grâce, s'écriait: J'ai dit dans mon abondance: Je
-ne serai jamais ébranlé ! Mais la grâce s'étant retirée, il ajoutait: Vous avez détourné
+Un d'eux, sentant la présence de la grâce, s'écriait : J'ai dit dans mon abondance : Je
+ne serai jamais ébranlé ! Mais la grâce s'étant retirée, il ajoutait : Vous avez détourné
 de moi votre face, et j'ai été rempli de trouble. Dans ce trouble cependant, il ne
-désespère point; mais il prie le Seigneur avec plus d'insistance, disant: Seigneur, je
+désespère point; mais il prie le Seigneur avec plus d'insistance, disant : Seigneur, je
 crierai vers vous, et j'implorerai mon Dieu. Enfin il recueille le fruit de sa prière et il
-témoigne qu'il a été exaucé: Le Seigneur m'a écouté, il a eu pitié de moi, le Seigneur
+témoigne qu'il a été exaucé : Le Seigneur m'a écouté, il a eu pitié de moi, le Seigneur
 s'est fait mon appui. Mais comment ? Vous avez, dit-il, changé mes gémissements en
 chants d'allégresse, et vous m'avez environné de joie. Or, puisque Dieu en use ainsi
 avec les plus grands saints, nous ne devons pas perdre courage, pauvres infirmes que
 nous sommes, si quelquefois nous éprouvons de la ferveur et quelquefois du
-refroidissement: car l'esprit de Dieu vient et se retire comme il lui plaît. Ce qui faisait
-dire au bienheureux Job: Vous visitez l'homme dès le matin, et aussitôt vous
+refroidissement : car l'esprit de Dieu vient et se retire comme il lui plaît. Ce qui faisait
+dire au bienheureux Job : Vous visitez l'homme dès le matin, et aussitôt vous
 l'éprouvez.
 
 En quoi donc espérer, et en quoi mettre ma confiance, si ce n'est uniquement dans la
@@ -377,7 +377,7 @@ dit le Seigneur, je lui donnerai à manger du fruit de l'arbre de vie.
 
 La consolation divine est donnée afin que l'homme ait plus de force pour soutenir
 l'adversité. La tentation vient après, afin qu'il ne s'enorgueillisse pas du bien. Car
-Satan ne dort point, et la chair n'est pas encore morte: c'est pourquoi ne cessez de
+Satan ne dort point, et la chair n'est pas encore morte : c'est pourquoi ne cessez de
 vous préparer au combat, parce qu'à droite et à gauche sont des ennemis qui ne se
 reposent jamais.
 
@@ -390,7 +390,7 @@ joie. Quel est l'homme du siècle qui ne reçut volontiers les joies et les cons
 spirituelles, s'il pouvait en jouir toujours ? Car les consolations spirituelles surpassent
 toutes les délices du monde et toutes les voluptés de la chair. Toutes les délices du
 monde sont ou honteuses ou vaines; les délices spirituelles sont seules douces et
-chastes, nées des vertus et répandues par Dieu dans les coeurs purs. Mais nul ne peut
+chastes, nées des vertus et répandues par Dieu dans les cœurs purs. Mais nul ne peut
 jouir toujours à son gré des consolations divines, parce que la tentation ne cesse
 jamais longtemps.
 
@@ -416,7 +416,7 @@ péché, rien ne vous est dû que la peine du péché.
 Mettez-vous toujours à la dernière place et la première vous sera donnée; car ce qui
 est le plus élevé s'appuie sur ce qui est le plus bas. Les plus grands saints aux yeux de
 Dieu sont les plus petits à leurs propres yeux; et plus leur vocation est sublime, plus
-ils sont humbles dans leur coeur. Pleins de la vérité et de la gloire céleste, ils ne sont
+ils sont humbles dans leur cœur. Pleins de la vérité et de la gloire céleste, ils ne sont
 pas avides d'une gloire vaine. Fondés et affermis en Dieu, ils ne sauraient s'élever en
 eux-mêmes. Rapportant à Dieu tout ce qu'ils ont reçu de bien, ils ne recherchent point
 la gloire que donnent les hommes et ne veulent que celle qui vient de Dieu seul; leur
@@ -449,7 +449,7 @@ Jésus se cache et les délaisse un moment, ils tombent dans le murmure ou dans 
 excessif abattement.
 
 Mais ceux qui aiment Jésus pour Jésus et non pour eux-mêmes, le bénissent dans
-toutes les tribulations et dans l'angoisse du coeur comme dans les consolations les
+toutes les tribulations et dans l'angoisse du cœur comme dans les consolations les
 plus douces. Et quand il ne voudrait jamais les consoler, toujours cependant ils le
 loueraient, toujours ils lui rendraient grâces.
 
@@ -471,16 +471,16 @@ qu'après avoir fait tout ce qu'il sait devoir faire, il pense encore n'avoir ri
 
 Qu'il estime peu ce qu'on pourrait regarder comme quelque chose de grand, et qu'en
 toute sincérité il confesse qu'il est un serviteur inutile, selon la parole de la Vérité:
-Quand vous aurez fait tout ce qui vous est commandé, dites: Nous sommes des
+Quand vous aurez fait tout ce qui vous est commandé, dites : Nous sommes des
 serviteurs inutiles. Alors il sera vraiment pauvre et séparé de tout en esprit, et il
-pourra dire avec le prophète: Oui, je suis pauvre et seul dans le monde. Nul cependant
+pourra dire avec le prophète : Oui, je suis pauvre et seul dans le monde. Nul cependant
 n'est plus riche, plus puissant, plus libre, que celui qui sait quitter tout et soi-même, et
 se mettre au dernier rang.
 
 
 == De la sainte voie de la Croix
 
-Cette parole semble dure à plusieurs: Renoncez à vous-mêmes, prenez votre Croix,
+Cette parole semble dure à plusieurs : Renoncez à vous-mêmes, prenez votre Croix,
 et suivez Jésus. Mais il sera bien plus dur, au dernier jour, d'entendre cette parole:
 Retirez-vous de moi, maudits, allez au feu éternel ! Ceux qui écoutent maintenant
 volontiers la parole qui commande de porter la Croix, et qui y obéissent, ne
@@ -501,7 +501,7 @@ mourir sur la Croix. Car si vous mourez avec lui, vous vivrez aussi avec lui; et
 partagez ses souffrances, vous partagerez sa gloire.
 
 Ainsi tout est dans la Croix, et tout consiste à mourir. Il n'est point d'autre voie qui
-conduise à la vie et à la véritable paix du coeur que la voie de la Croix et d'une
+conduise à la vie et à la véritable paix du cœur que la voie de la Croix et d'une
 mortification continuelle. Allez où vous voudrez, cherchez tout ce que vous voudrez,
 vous ne trouverez pas au-dessus une voie plus élevée, au-dessous une voie plus sûre
 que la voie de la sainte Croix. Disposez de tout selon vos vues, réglez tout selon vos
@@ -514,7 +514,7 @@ encore, vous serez souvent à charge à vous-même. Vous ne trouverez à vos pei
 aucun remède, aucun soulagement; mais il vous faudra souffrir aussi longtemps que
 Dieu le voudra. Car Dieu veut que vous appreniez à souffrir sans consolations et que
 vous vous soumettiez à lui sans réserve, et que vous deveniez plus humble par la
-tribulation. Nul n'a si avant dans son coeur la passion de Jésus-Christ que celui qui a
+tribulation. Nul n'a si avant dans son cœur la passion de Jésus-Christ que celui qui a
 souffert quelque chose de semblable. La Croix est donc toujours préparée; elle vous
 attend partout. Vous ne pouvez la fuir, quelque part que vous alliez; puisque partout
 où vous irez, vous vous porterez et vous trouverez toujours vous-même. Elevez-vous,
@@ -522,7 +522,7 @@ abaissez-vous, sortez de vous-même, rentrez-y; toujours vous trouverez la Croix
 faut que partout vous preniez patience, si vous voulez la paix intérieure et mériter la
 couronne immortelle.
 
-Si vous portez de bon coeur la Croix, elle-même vous portera et vous conduira au
+Si vous portez de bon cœur la Croix, elle-même vous portera et vous conduira au
 terme désiré, où vous cesserez de souffrir; mais ce ne sera pas en ce monde. Si vous
 la portez à regret, vous en augmentez le poids, vous rendez votre fardeau plus dur, et
 cependant il vous faut la porter. Si vous rejetez une Croix, vous en trouverez
@@ -530,7 +530,7 @@ certainement une autre, et peut-être plus pesante.
 
 Croyez-vous échapper à ce que nul homme n'a pu éviter ? Quel saint a été dans ce
 monde sans croix et sans tribulation ? Jésus-Christ lui-même, Notre-Seigneur, n'a pas
-été une seule heure dans toute sa vie sans éprouver quelque souffrance: Il fallait, dit-
+été une seule heure dans toute sa vie sans éprouver quelque souffrance : Il fallait, dit-
 il, que le Christ souffrît, et qu'il ressuscitât d'entre les morts, et qu'il entrât ainsi dans
 sa gloire. Comment donc cherchez-vous une autre voie que la voie royale de la sainte
 Croix ?
@@ -606,7 +606,7 @@ tribulations et de pesantes épreuves.
 S'il y avait eu pour l'homme quelque chose de meilleur et de plus utile que de
 souffrir, Jésus-Christ nous l'aurait appris par ses paroles et par son exemple. Or,
 manifestement, il exhorte à porter sa Croix, et les disciples qui le suivaient, et tous
-ceux qui voudraient le suivre, disant: Si quelqu'un veut marcher sur mes pas, qu'il
+ceux qui voudraient le suivre, disant : Si quelqu'un veut marcher sur mes pas, qu'il
 renonce à soi-même, qu'il porte sa Croix, et qu'il me suive. Après donc avoir tout lu,
 tout examiné, concluons enfin qu'il nous faut passer par beaucoup de tribulations
 pour entrer dans le royaume de Dieu.

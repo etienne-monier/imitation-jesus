@@ -6,10 +6,10 @@
 
 Celui qui me suit ne marche pas dans les ténèbres, dit le Seigneur. Ce sont les
 paroles de Jésus-Christ, par lesquelles il nous exhorte à imiter sa conduite et sa vie, si
-nous voulons être vraiment éclairés et délivrés de tout aveuglement du coeur. Que
+nous voulons être vraiment éclairés et délivrés de tout aveuglement du cœur. Que
 notre principale étude soit donc de méditer la vie de Jésus-Christ.
 
-La doctrine de Jésus-Christ surpasse toute doctrine des Saints: et qui posséderait
+La doctrine de Jésus-Christ surpasse toute doctrine des Saints : et qui posséderait
 son esprit y trouverait la manne cachée. Mais il arrive que plusieurs, à force
 d'entendre l'Evangile, n'en sont que peu touchés, parce qu'ils n'ont point l'esprit de
 Jésus-Christ. Voulez-vous comprendre parfaitement et goûter les paroles de Jésus-
@@ -19,7 +19,7 @@ Que vous sert de raisonner profondément sur la Trinité, si vous n'êtes pas hu
 et que par-là vous déplaisez à la Trinité ? Certes, les discours sublimes ne font pas
 l'homme juste et saint, mais une vie pure rend cher à Dieu. J'aime mieux sentir la
 componction que d'en savoir la définition. Quand vous sauriez toute la Bible par
-coeur et toutes les sentences des philosophes, que vous servirait tout cela sans la
+cœur et toutes les sentences des philosophes, que vous servirait tout cela sans la
 grâce et la charité ? Vanité des vanités, tout n'est que vanité, hors aimer Dieu et le
 servir lui seul. La souveraine richesse est de tendre au royaume du ciel par le mépris
 du monde.
@@ -31,9 +31,9 @@ Vanité, de souhaiter une longue vie et de ne pas se soucier de bien vivre. Vani
 penser qu'à la vie présente et de ne pas prévoir ce qui la suivra. Vanité, de s'attacher à
 ce qui passe si vite et de ne pas se hâter vers la joie qui ne finit point.
 
-Rappelez-vous souvent cette parole du Sage: L'oeil n'est pas rassasié de ce qu'il
+Rappelez-vous souvent cette parole du Sage : L'œil n'est pas rassasié de ce qu'il
 voit, ni l'oreille remplie de ce qu'elle entend. Appliquez-vous donc à détacher votre
-coeur de l'amour des choses visibles, pour le porter tout entier vers les invisibles, car
+cœur de l'amour des choses visibles, pour le porter tout entier vers les invisibles, car
 ceux qui suivent l'attrait de leurs sens souillent leur âme et perdent la grâce de Dieu.
 
 
@@ -44,7 +44,7 @@ Dieu, que vaut-elle ? Un humble paysan qui sert Dieu est certainement fort au-de
 du philosophe superbe qui, se négligeant lui-même, considère le cours des astres.
 Celui qui se connaît bien se méprise, et ne se plaît point aux louanges des hommes.
 Quand j'aurais toute la science du monde, si je n'ai pas la charité, à quoi cela me
-servirait-il devant Dieu, qui me jugera sur mes oeuvres ?
+servirait-il devant Dieu, qui me jugera sur mes œuvres ?
 
 Modérez le désir trop vif de savoir; on ne trouvera là qu'une grande dissipation et
 une grande illusion. Les savants sont bien aise de paraître et de passer pour habiles. Il
@@ -86,11 +86,11 @@ Verbe éternel est délivré de bien des opinions. Tout vient de ce Verbe unique
 procède toute parole, il en est le principe, et c'est lui qui parle en dedans de nous.
 Sans lui nulle intelligence, sans lui nul jugement n'est droit. Celui pour qui une seule
 chose est tout, qui rappelle tout à cette unique chose, et voit tout en elle, ne sera point
-ébranlé, et son coeur demeurera dans la paix de Dieu. O Vérité, qui êtes Dieu, faites
+ébranlé, et son cœur demeurera dans la paix de Dieu. O Vérité, qui êtes Dieu, faites
 que je sois un avec vous dans un amour éternel ! Souvent j'éprouve un grand ennui à
 force de lire et d'entendre; en vous est tout ce que je désire, tout ce que je veux. Que
 tous les docteurs se taisent, que toutes les créatures soient dans le silence devant
-vous: parlez-moi vous seul.
+vous : parlez-moi vous seul.
 
 Plus un homme est recueilli en lui-même, et dégagé des choses extérieures, plus
 son esprit s'étend et s'élève sans aucun travail, parce qu'il reçoit d'en haut la lumière
@@ -98,15 +98,15 @@ de l'intelligence. Une âme pure, simple, formée dans le bien, n'est jamais dis
 milieu même des plus nombreuses occupations, parce qu'elle fait tout pour honorer
 Dieu, et que, tranquille en elle-même, elle tâche de ne se rechercher en rien. Qu'est-ce
 qui vous fatigue et vous trouble, si ce n'est les affections immortifiées de votre
-coeur ?
+cœur ?
 
 L'homme bon et vraiment pieux dispose d'abord au-dedans de lui tout ce qu'il doit
 faire au-dehors; il ne se laisse point entraîner, dans ses actions, au désir d'une
 inclination vicieuse, mais il les soumet à la règle d'une droite raison. Qui a un plus
 rude combat à soutenir que celui qui travaille à se vaincre ? C'est là ce qui devrait
-nous occuper uniquement: combattre contre nous-mêmes, devenir chaque jour plus
+nous occuper uniquement : combattre contre nous-mêmes, devenir chaque jour plus
 forts contre nous, chaque jour faire quelques progrès dans le bien. Toute perfection,
-dans cette vie, est mêlée de quelque imperfection: et nous ne voyons rien qu'à travers
+dans cette vie, est mêlée de quelque imperfection : et nous ne voyons rien qu'à travers
 je ne sais quelle fumée. L'humble connaissance de vous-même est une voie plus sûre
 pour aller à Dieu que les recherches profondes de la science. Ce n'est pas qu'il faille
 blâmer la science, ni la simple connaissance d'aucune chose; car elle est bonne en soi,
@@ -186,8 +186,8 @@ tristesse, et il est disposé à l'impatience quand on lui résiste.
 Que, s'il a obtenu ce qu'il convoitait, aussitôt le remords de la conscience pèse sur
 lui, parce qu'il a suivi sa passion, qui ne sert de rien pour la paix qu'il cherchait. C'est
 en résistant aux passions, et non en leur cédant, qu'on trouve la véritable paix du
-coeur. Point de paix donc dans le coeur de l'homme charnel, de l'homme livré aux
-choses extérieures: la paix est le partage de l'homme fervent et spirituel.
+cœur. Point de paix donc dans le cœur de l'homme charnel, de l'homme livré aux
+choses extérieures : la paix est le partage de l'homme fervent et spirituel.
 
 
 == Qu'il faut fuir l'orgueil et les vaines espérances
@@ -209,21 +209,21 @@ de qui vient tout ce que vous avez reçu de bon de la nature.
 
 Ne vous estimez pas meilleur que les autres; peut-être êtes-vous pire aux yeux de
 Dieu, qui sait ce qu'il y a dans l'homme. Ne vous enorgueillissez pas de vos bonnes
-oeuvres, car les jugements de Dieu sont autres que ceux des hommes, et ce qui plaît
+œuvres, car les jugements de Dieu sont autres que ceux des hommes, et ce qui plaît
 aux hommes, souvent lui déplaît. S'il y a quelque bien en vous, croyez qu'il y en a
 plus dans les autres, afin de conserver l'humilité. Vous ne hasardez rien à vous mettre
 au-dessous de tous, mais il vous serait très nuisible de vous préférer à un seul.
-L'homme humble jouit d'une paix inaltérable, la colère et l'envie troublent le coeur du
+L'homme humble jouit d'une paix inaltérable, la colère et l'envie troublent le cœur du
 superbe.
 
 
 == Eviter la trop grande familiarité
 
-N'ouvrez pas votre coeur à tous indistinctement; mais confiez ce qui vous touche à
+N'ouvrez pas votre cœur à tous indistinctement; mais confiez ce qui vous touche à
 l'homme sage et craignant Dieu. Ayez peu de commerce avec les jeunes gens et les
 personnes du monde. Ne flattez point les riches, et ne désirez point de paraître devant
 les grands. Recherchez les humbles, les simples, les personnes de piété et de bonnes
-moeurs, et ne vous entretenez que de choses édifiantes. N'ayez de familiarité avec
+mœurs, et ne vous entretenez que de choses édifiantes. N'ayez de familiarité avec
 aucune femme, mais recommandez à Dieu toutes celles qui sont vertueuses. Ne
 souhaitez d'être familier qu'avec Dieu et les anges, et évitez d'être connu des hommes.
 
@@ -240,7 +240,7 @@ C'est quelque chose de bien grand que de vivre sous un supérieur, dans
 l'obéissance, et de ne pas dépendre de soi-même. Il est beaucoup plus sûr d'obéir que
 de commander. Quelques-uns obéissent plutôt par nécessité que par amour, et ceux-
 là, toujours souffrants, sont portés au murmure. Jamais ils ne posséderont la liberté
-d'esprit, à moins qu'ils ne se soumettent de tout leur coeur, à la cause de Dieu. Allez
+d'esprit, à moins qu'ils ne se soumettent de tout leur cœur, à la cause de Dieu. Allez
 où vous voudrez, vous ne trouverez de repos que dans une humble soumission à la
 conduite d'un supérieur. Plusieurs s'imaginant qu'ils seraient meilleurs en d'autres
 lieux, ont été trompés par cette idée de changement.
@@ -267,7 +267,7 @@ souille l'âme et la captive. Je voudrais plus souvent m'être tu, et ne m'être
 avec les hommes. D'où vient que nous aimions tant à parler et à converser lorsque si
 rarement il arrive que nous rentrions dans le silence avec une conscience qui ne soit
 point blessée ? C'est que nous cherchons dans ces entretiens une consolation mutuelle
-et un soulagement pour notre coeur fatigué de pensées contradictoires. Nous nous
+et un soulagement pour notre cœur fatigué de pensées contradictoires. Nous nous
 plaisons à parler, à occuper notre esprit de ce que nous aimons, de ce que nous
 souhaitons, de ce qui contrarie nos désirs.
 
@@ -290,7 +290,7 @@ même ? Heureux les simples, parce qu'ils posséderont une grande paix !
 
 Comment quelques saints se sont-ils élevés à un si haut degré de vertu et de
 contemplation ? C'est qu'ils se sont efforcés de mourir à tous les désirs de la terre, et
-qu'ils ont pu ainsi s'unir à Dieu par le fond le plus intime de leur coeur, et s'occuper
+qu'ils ont pu ainsi s'unir à Dieu par le fond le plus intime de leur cœur, et s'occuper
 librement d'eux-mêmes. Pour nous, nous sommes trop à nos passions, et trop inquiets
 de ce qui se passe. Rarement nous surmontons parfaitement un seul vice, nous
 n'avons point d'ardeur pour faire chaque jour quelques progrès, et ainsi nous restons
@@ -333,12 +333,12 @@ avancement spirituel.
 == De l'avantage de l'adversité
 
 Il nous est bon d'avoir quelquefois des peines et des traverses, parce que souvent
-elles rappellent l'homme à son coeur, et lui font sentir qu'il est en exil, et qu'il ne doit
+elles rappellent l'homme à son cœur, et lui font sentir qu'il est en exil, et qu'il ne doit
 mettre son espérance en aucune chose du monde. Il nous est bon de souffrir
 quelquefois des contradictions, et qu'on pense mal ou peu favorablement de nous,
 quelques bonnes que soient nos actions et nos intentions. Souvent cela sert à nous
 prémunir contre la vaine gloire. Car nous avons plus d'empressement à chercher
-Dieu, qui voit le fond du coeur, quand les hommes au-dehors nous rabaissent et
+Dieu, qui voit le fond du cœur, quand les hommes au-dehors nous rabaissent et
 pensent mal de nous.
 
 C'est pourquoi l'homme devrait s'affermir tellement en Dieu, qu'il n'eût pas besoin
@@ -354,7 +354,7 @@ ne sont point de ce monde.
 == De la résistance aux tentations
 
 Tant que nous vivons ici-bas, nous ne pouvons être exempts de tribulations et
-d'épreuves. C'est pourquoi il est écrit au livre de Job: La tentation est la vie de
+d'épreuves. C'est pourquoi il est écrit au livre de Job : La tentation est la vie de
 l'homme sur la terre. Chacun devrait donc être toujours en garde contre les tentations
 qui l'assiègent, et veiller et prier pour ne point laisser lieu aux surprises du démon,
 qui ne dort jamais, et qui tourne de tous côtés, cherchant quelqu'un pour le dévorer. Il
@@ -391,7 +391,7 @@ savons souvent ce que nous pouvons, mais la tentation montre ce que nous sommes.
 Il faut veiller cependant, surtout au commencement de la tentation, car on triomphe
 beaucoup plus facilement de l'ennemi, si on ne le laisse point pénétrer dans l'âme, et
 si on le repousse à l'instant même où il se présente pour entrer. C'est ce qui a fait dire
-à un ancien: Arrêtez le mal dès son origine; le remède vient trop tard quand le mal
+à un ancien : Arrêtez le mal dès son origine; le remède vient trop tard quand le mal
 s'est accru par de longs délais. D'abord une simple pensée s'offre à l'esprit, puis une
 vive imagination, ensuite le plaisir et le mouvement déréglé, et le consentement.
 Ainsi peu à peu l'ennemi envahit toute l'âme, lorsqu'on ne lui résiste pas dès le
@@ -426,7 +426,7 @@ Tournez les yeux sur vous-même, et gardez-vous de juger les actions des autres.
 jugeant les autres, l'homme se fatigue vainement; il se trompe le plus souvent, et
 commet beaucoup de fautes; mais en s'examinant et se jugeant lui-même, il travaille
 toujours avec fruit. D'ordinaire nous jugeons les choses selon l'inclination de notre
-coeur, car l'amour-propre altère aisément en nous la droiture du jugement. Si nous
+cœur, car l'amour-propre altère aisément en nous la droiture du jugement. Si nous
 n'avions jamais en vue que Dieu seul, nous serions moins troublés quand on résiste à
 notre sentiment.
 
@@ -440,17 +440,17 @@ entre les religieux et les personnes dévotes.
 On quitte difficilement une vieille habitude, et nul ne se laisse volontiers conduire
 au-delà de ce qu'il voit. Si vous vous appuyez sur votre esprit et sur votre pénétration
 plus que sur la soumission dont Jésus-Christ nous a donné l'exemple, vous serez très
-peu et très tard éclairé sur la vie spirituelle: car Dieu veut que nous lui soyons
+peu et très tard éclairé sur la vie spirituelle : car Dieu veut que nous lui soyons
 parfaitement soumis, et que nous nous élevions au-dessus de toute raison par un
 ardent amour.
 
 
-== Des oeuvres de charité
+== Des œuvres de charité
 
 Pour nulle chose au monde ni pour l'amour d'aucun homme, on ne doit faire le
 moindre mal; on peut quelquefois cependant, pour rendre un service dans le besoin,
-différer une bonne oeuvre ou lui en substituer une meilleure; car alors le bien n'est
-pas détruit mais il se change en un plus grand. Aucune oeuvre extérieure ne sert sans
+différer une bonne œuvre ou lui en substituer une meilleure; car alors le bien n'est
+pas détruit mais il se change en un plus grand. Aucune œuvre extérieure ne sert sans
 la charité; mais tout ce qui est fait par la charité, quelque petit ou quelque vil qu'il
 soit, produit des fruits abondants. Car Dieu regarde moins à l'action qu'au motif qui
 fait agir.
@@ -513,7 +513,7 @@ dans la vertu, regardez-vous comme exilé et comme étranger sur la terre. Il fa
 l'amour de Jésus-Christ, devenir insensé selon le monde, si vous voulez vivre en
 religieux.
 
-L'habit et la tonsure servent peu; c'est le changement de moeurs et la mortification
+L'habit et la tonsure servent peu; c'est le changement de mœurs et la mortification
 entière des passions qui font le vrai religieux. Celui qui cherche autre chose que Dieu
 seul et le salut de son âme ne trouvera que tribulation et douleur. Celui-là ne saurait
 non plus demeurer longtemps en paix qui ne s'efforce point d'être le dernier de tous et
@@ -522,7 +522,7 @@ soumis à tous.
 Vous êtes venus pour servir et non pour dominer; sachez que vous êtes appelés
 pour souffrir et pour travailler, et non pour discourir dans une vaine oisiveté. Ici donc
 les hommes sont éprouvés, comme l'or dans la fournaise. Ici nul ne peut vivre s'il ne
-veut s'humilier de tout son coeur à la cause de Dieu.
+veut s'humilier de tout son cœur à la cause de Dieu.
 
 
 == De l'exemple des saints
@@ -583,7 +583,7 @@ parfait au-dedans qu'il ne le semble au-dehors, parce que Dieu nous regarde, et 
 nous devons partout où nous sommes le révérer profondément et marcher en sa
 présence purs comme des anges. Nous devons chaque jour renouveler notre
 résolution, nous exciter à la ferveur, comme si notre conversion commençait
-aujourd'hui seulement, et dire: Aidez-moi, Seigneur, dans mes saintes résolutions et
+aujourd'hui seulement, et dire : Aidez-moi, Seigneur, dans mes saintes résolutions et
 dans votre service; donnez-moi de bien commencer maintenant car ce que j'ai fait
 jusqu'ici n'est rien.
 
@@ -645,12 +645,12 @@ qu'il l'établira sur tous ses biens.
 
 Cherchez un temps propre à vous occuper de vous-même et pensez souvent aux
 bienfaits de Dieu. Laissez là ce qui ne sert qu'à nourrir la curiosité. Lisez plutôt ce qui
-touche le coeur que ce qui amuse l'esprit. Retranchez les discours superflus, les
+touche le cœur que ce qui amuse l'esprit. Retranchez les discours superflus, les
 courses inutiles; fermez l'oreille aux vains bruits du monde, et vous trouverez assez
 de loisir pour les saintes méditations. Les plus grands saints évitaient autant qu'il leur
 était possible le commerce des hommes et préféraient vivre en secret avec Dieu.
 
-Un ancien a dit: Toutes les fois que j'ai été dans la compagnie des hommes, j'en
+Un ancien a dit : Toutes les fois que j'ai été dans la compagnie des hommes, j'en
 suis revenu moins homme que je n'étais. C'est ce que nous éprouvons souvent lorsque
 nous nous livrons à de longs entretiens. Il est plus aisé de se taire que de ne point
 excéder dans ses paroles. Il est plus aisé de se tenir chez soi que de se garder de soi-
@@ -662,7 +662,7 @@ n'a pas appris à bien obéir.
 
 Nul ne se réjouit avec sécurité s'il ne possède en lui-même le témoignage d'une
 bonne conscience. Cependant la confiance des saints a toujours été pleine de la
-crainte de Dieu: quel que fût l'éclat de leurs vertus, quelque abondantes que fussent
+crainte de Dieu : quel que fût l'éclat de leurs vertus, quelque abondantes que fussent
 leurs grâces, ils n'en étaient ni moins humbles ni moins vigilants. L'assurance des
 méchants naît, au contraire, de l'orgueil et de la présomption, et finit par
 l'aveuglement. Ne vous promettez point de sûreté en cette vie, quoique vous
@@ -678,9 +678,9 @@ retrancherait toute sollicitude vaine, ne pensant qu'au salut et à Dieu, et pla
 toute son espérance, de quelle paix et de quel repos il jouirait !
 
 Nul n'est digne des consolations célestes s'il ne s'est exercé longtemps dans la
-sainte componction. Si vous désirez la vraie componction du coeur, entrez dans votre
-cellule et bannissez-en le bruit du monde; selon qu'il est écrit: Même sur votre
-couche, que votre coeur soit plein de componction. Vous trouverez dans votre cellule
+sainte componction. Si vous désirez la vraie componction du cœur, entrez dans votre
+cellule et bannissez-en le bruit du monde; selon qu'il est écrit : Même sur votre
+couche, que votre cœur soit plein de componction. Vous trouverez dans votre cellule
 ce que souvent vous perdrez au-dehors. La cellule qu'on quitte peu devient douce;
 fréquemment délaissée, elle engendre l'ennui. Si dès le premier moment où vous
 sortez du siècle, vous êtes fidèle à la garder, elle vous deviendra comme une amie
@@ -697,7 +697,7 @@ louable dans un religieux de sortir rarement et de n'aimer ni à voir les hommes
 
 Pourquoi voulez-vous voir ce qui ne vous est point permis d'avoir ? Le monde
 passe, et sa concupiscence. Les désirs des sens entraînent çà et là; mais l'heure
-passée, que rapportez-vous, qu'une conscience pesante et un coeur dissipé ? Parce
+passée, que rapportez-vous, qu'une conscience pesante et un cœur dissipé ? Parce
 qu'on est sorti dans la joie, souvent on revient dans la tristesse; et la veille joyeuse du
 soir attriste le matin. Ainsi toute joie des sens s'insinue avec douceur; mais à la fin
 elle blesse et tue. Que pouvez-vous voir ailleurs que vous ne voyiez où vous êtes ?
@@ -709,40 +709,40 @@ les choses à la fois, que serait-ce qu'une vision vaine ? Levez les yeux en hau
 Dieu et priez pour vos péchés et vos négligences. Laissez aux hommes vains les
 choses vaines; pour vous, ne vous occupez que de ce que Dieu vous commande.
 Fermez sur vous votre porte et appelez à vous Jésus, votre bien-aimé. Demeurez avec
-lui dans votre cellule: car vous ne trouverez nulle part autant de paix. Si vous n'étiez
+lui dans votre cellule : car vous ne trouverez nulle part autant de paix. Si vous n'étiez
 pas sorti et que vous n'eussiez pas entendu quelque bruit du monde, vous seriez
-demeuré dans cette douce paix: mais parce que vous aimez à entendre des choses
-nouvelles, il vous faut supporter ensuite le trouble du coeur.
+demeuré dans cette douce paix : mais parce que vous aimez à entendre des choses
+nouvelles, il vous faut supporter ensuite le trouble du cœur.
 
 
-== De la componction du coeur
+== De la componction du cœur
 
 Si vous voulez faire quelque progrès, conservez-vous dans la crainte de Dieu et ne
 soyez point trop libre; mais soumettez vos sens à une sévère discipline et ne vous
-livrez pas aux joies insensées. Disposez votre coeur à la componction et vous
+livrez pas aux joies insensées. Disposez votre cœur à la componction et vous
 trouverez la vraie piété. La componction produit beaucoup de bien, qu'on perd bientôt
-en s'abandonnant aux vains mouvements de son coeur. Chose étrange, qu'un homme
+en s'abandonnant aux vains mouvements de son cœur. Chose étrange, qu'un homme
 en cette vie puisse se reposer pleinement dans la joie, lorsqu'il considère son exil, et à
 combien de périls est exposée son âme !
 
-A cause de la légèreté de notre coeur et de l'oubli de nos défauts, nous ne sentons
+A cause de la légèreté de notre cœur et de l'oubli de nos défauts, nous ne sentons
 pas les maux de notre âme, et souvent nous rions vainement quand nous devrions
 bien plutôt pleurer. Il n'y a de vraie liberté et de joie solide que dans la crainte de
 Dieu et la bonne conscience. Heureux qui peut éloigner tout ce qui le distrait et
 l'arrête, pour se recueillir tout entier dans une sainte componction. Heureux qui rejette
-tout ce qui peut souiller sa conscience ou l'appesantir. Combattez généreusement: on
+tout ce qui peut souiller sa conscience ou l'appesantir. Combattez généreusement : on
 triomphe d'une habitude par une autre habitude. Si vous savez laisser là les hommes,
 ils vous laisseront bientôt faire ce que vous voudrez.
 
 N'attirez pas à vous les affaires d'autrui et ne vous embarrassez point dans celles
-des grands. Que votre oeil soit ouvert sur vous d'abord; et avant de reprendre vos
+des grands. Que votre œil soit ouvert sur vous d'abord; et avant de reprendre vos
 amis, ayez soin de vous reprendre vous-même. Si vous n'avez point la faveur des
 hommes, ne vous en attristez point; mais que votre peine soit de ne pas vivre aussi
 bien et avec autant de vigilance que le devrait un serviteur de Dieu et un bon
 religieux. Il est plus souvent utile et plus sûr de n'avoir pas beaucoup de consolations
 dans cette vie, et surtout de consolations sensibles. Cependant, si nous sommes privés
 de consolations divines, ou si nous ne les éprouvons que rarement, la faute en est à
-nous, parce que nous ne cherchons point la componction du coeur et que nous ne
+nous, parce que nous ne cherchons point la componction du cœur et que nous ne
 rejetons pas entièrement les vaines consolations du dehors.
 
 Reconnaissez que vous êtes indignes des consolations célestes et que vous méritez
@@ -759,12 +759,12 @@ Si vous pensez plus souvent à votre mort qu'à la longueur de la vie, nul doute
 vous n'auriez plus d'ardeur pour vous corriger. Et si vous réfléchissiez sérieusement
 aux peines de l'enfer et au purgatoire, je crois que vous supporteriez volontiers le
 travail et la douleur, et que vous ne redouteriez aucune austérité. Mais parce que ces
-vérités ne pénètrent point jusqu'au coeur, et que nous aimons encore ce qui nous
+vérités ne pénètrent point jusqu'au cœur, et que nous aimons encore ce qui nous
 flatte, nous demeurons froids et négligents.
 
 Souvent c'est langueur de l'âme, et notre chair misérable se plaint si aisément. Priez
 donc humblement le Seigneur qu'il vous donne l'esprit de componction, et dites avec
-le prophète: Nourrissez-moi, Seigneur, du pain des larmes; abreuvez-moi du calice
+le prophète : Nourrissez-moi, Seigneur, du pain des larmes; abreuvez-moi du calice
 des pleurs.
 
 
@@ -777,12 +777,12 @@ succède selon sa volonté ? Ni à vous, ni à moi, ni à aucun homme sur la ter
 ce monde, fût-il roi ou pape, n'est exempt d'angoisses et de tribulations. Qui donc a le
 meilleur sort ? Celui, certes, qui sait souffrir quelque chose pour Dieu.
 
-Dans leur faiblesse et leur peu de lumière, plusieurs disent: Que cet homme a une
+Dans leur faiblesse et leur peu de lumière, plusieurs disent : Que cet homme a une
 heureuse vie ! qu'il est riche, grand, puissant, élevé ! Mais considérez les biens du
 ciel, et vous verrez que tous ces biens du temps ne sont rien; que toujours très
 incertains, ils sont plutôt un poids qui fatigue, parce qu'on ne les possède jamais sans
 défiance et sans crainte. Avoir en abondance les biens du temps, ce n'est pas là le
-bonheur de l'homme: la médiocrité lui suffit. C'est vraiment une grande misère de
+bonheur de l'homme : la médiocrité lui suffit. C'est vraiment une grande misère de
 vivre sur la terre. Plus un homme veut avancer dans les voies spirituelles, plus la vie
 présente lui devient amère, parce qu'il sent mieux et voit plus clairement l'infirmité de
 la nature humaine et sa corruption. Manger, boire, veiller, dormir, se reposer,
@@ -792,22 +792,22 @@ liens terrestres, et délivré de tout péché.
 
 Car l'homme intérieur est en ce monde étrangement appesanti par les nécessités du
 corps. Et c'est pourquoi le prophète demandait avec d'ardentes prières d'en être
-affranchi, disant: Seigneur, délivrez-moi de mes nécessités. Malheur donc à ceux qui
+affranchi, disant : Seigneur, délivrez-moi de mes nécessités. Malheur donc à ceux qui
 ne connaissent point leur misère ! et malheur encore plus à ceux qui aiment cette
 misère et cette vie périssable ! Car il y en a qui l'embrassent si avidement, leur
 misère, qu'ayant à peine le nécessaire en travaillant ou en mendiant, ils
 n'éprouveraient aucun souci du royaume de Dieu s'ils pouvaient toujours vivre ici-
 bas.
 
-Ô coeurs insensés et infidèles, si profondément enfoncés dans les choses de la terre
+Ô cœurs insensés et infidèles, si profondément enfoncés dans les choses de la terre
 qu'ils ne goûtent rien que ce qui est charnel ! Les malheureux ! ils sentiront
 douloureusement à la fin combien était vil, combien n'était rien ce qu'ils ont aimé.
 Mais les saints de Dieu, tous les fidèles amis de Jésus-Christ ont méprisé ce qui flatte
 la chair et ce qui brille dans le temps; toute leur espérance, tous leurs désirs aspiraient
-aux biens éternels. Tout leur coeur s'élevait vers les biens invisibles et impérissables,
+aux biens éternels. Tout leur cœur s'élevait vers les biens invisibles et impérissables,
 de peur que l'amour des choses visibles ne les abaissât vers la terre.
 
-Ne perdez pas, mon frère, l'espérance d'avancer dans la vie spirituelle: vous en
+Ne perdez pas, mon frère, l'espérance d'avancer dans la vie spirituelle : vous en
 avez encore le temps, c'est l'heure. Pourquoi remettez-vous toujours au lendemain
 l'accomplissement de vos résolutions ? Levez-vous et commencez à l'instant, et dites:
 Voici le temps d'agir, voici le temps de combattre, voici le temps de me corriger.
@@ -832,20 +832,20 @@ Que sera-ce de nous à la fin du jour si nous sommes si lâches dès le matin ?
 Malheur à nous si nous voulons goûter le repos, comme si déjà nous étions en paix et
 en assurance, tandis qu'on ne découvre pas dans notre vie une seule trace de vraie
 sainteté ! Nous aurions bien besoin d'être instruits encore, et formés à de nouvelles
-moeurs comme des novices dociles, pour essayer du moins s'il y aurait en nous
+mœurs comme des novices dociles, pour essayer du moins s'il y aurait en nous
 quelque espérance de changement et d'un plus grand progrès dans la vertu.
 
 
 == De la méditation de la mort
 
-C'en sera fait de vous bien vite ici-bas: voyez donc en quel état vous êtes. L'homme
+C'en sera fait de vous bien vite ici-bas : voyez donc en quel état vous êtes. L'homme
 est aujourd'hui, et demain il a disparu, et quand il n'est plus sous les yeux, il passe
-bien vite de l'esprit. O stupidité et dureté du coeur humain, qui ne pense qu'au présent
+bien vite de l'esprit. O stupidité et dureté du cœur humain, qui ne pense qu'au présent
 et ne prévoit pas l'avenir ! Dans toutes vos actions, dans toutes vos pensées, vous
 devriez être tel que vous seriez s'il vous fallait mourir aujourd'hui. Si vous aviez une
 bonne conscience, vous craindriez peu la mort. Il vaudrait mieux éviter le péché que
 fuir la mort. Si aujourd'hui vous n'êtes pas prêt, comment le serez-vous demain ?
-Demain est un jour incertain: et que savez-vous si vous aurez un lendemain ?
+Demain est un jour incertain : et que savez-vous si vous aurez un lendemain ?
 
 Que sert de vivre longtemps puisque nous nous corrigeons si peu ? Ah ! une longue
 vie ne corrige pas toujours; souvent plutôt elle augmente nos crimes. Plût à Dieu que
@@ -859,7 +859,7 @@ vous aussi vous passerez par cette voie.
 Le matin, pensez que vous n'atteindrez pas le soir; le soir, n'osez pas vous
 promettre de voir le matin. Soyez donc toujours prêt, et vivez de telle sorte que la
 mort ne vous surprenne jamais. Plusieurs sont enlevés par une mort soudaine et
-imprévue: car le Fils de l'homme viendra à l'heure qu'on n'y pense pas. Quand viendra
+imprévue : car le Fils de l'homme viendra à l'heure qu'on n'y pense pas. Quand viendra
 cette dernière heure, vous commencerez à juger tout autrement de votre vie passée, et
 vous gémirez amèrement d'avoir été si négligent et si lâche.
 
@@ -892,7 +892,7 @@ vous puissiez alors avoir une solide confiance.
 
 Insensés, sur quoi vous promettez-vous de vivre longtemps, lorsque vous n'avez
 pas un seul jour d'assuré ? Combien ont été trompés et arrachés subitement de leur
-corps ! Combien de fois avez-vous ouï dire: Cet homme a été tué d'un coup d'épée;
+corps ! Combien de fois avez-vous ouï dire : Cet homme a été tué d'un coup d'épée;
 celui-ci s'est noyé, celui-là s'est brisé en tombant d'un lieu élevé; l'un a expiré en
 mangeant, l'autre en jouant; l'un a péri par le feu, un autre par le fer, un autre par la
 peste, un autre par la main des voleurs ! Et ainsi la fin de tous est la mort, et la vie des
@@ -903,11 +903,11 @@ maintenant, mon cher frère, tout ce que vous pouvez, car vous ne savez pas quan
 vous mourrez, ni ce qui suivra pour vous la mort. Tandis que vous en avez le temps,
 amassez des richesses immortelles. Ne pensez qu'à votre salut, ne vous occupez que
 des choses de Dieu. Faites-vous maintenant des amis, en honorant les saints et en
-imitant leurs oeuvres, afin qu'arrivé au terme de cette vie, ils vous reçoivent dans les
+imitant leurs œuvres, afin qu'arrivé au terme de cette vie, ils vous reçoivent dans les
 tabernacles éternels.
 
 Vivez sur la terre comme un voyageur et un étranger à qui les choses du monde ne
-sont rien. Conservez votre coeur libre et toujours élevé vers Dieu, parce que vous
+sont rien. Conservez votre cœur libre et toujours élevé vers Dieu, parce que vous
 n'avez point ici-bas de demeure permanente. Que vos gémissements, vos larmes, vos
 prières, montent tous les jours vers le ciel afin que votre âme, après la mort, mérite de
 passer heureusement à Dieu.
@@ -922,12 +922,12 @@ insensé ! que répondrez-vous à Dieu, qui sait tous vos crimes, vous qui tremb
 quelquefois à l'aspect d'un homme irrité ? Par quel étrange oubli de vous-même vous
 en allez-vous, sans rien prévoir, vers ce jour où nul ne pourra être excusé ni défendu
 par un autre, mais où chacun sera pour soi un fardeau assez pesant ? Maintenant votre
-travail produit son fruit: vos larmes sont agréées, vos gémissements écoutés, votre
+travail produit son fruit : vos larmes sont agréées, vos gémissements écoutés, votre
 douleur satisfait à Dieu et purifie votre âme.
 
 Il a ici-bas un grand et salutaire purgatoire, l'homme patient qui, en butte aux
 outrages, s'afflige plus de la malice d'autrui que de sa propre injure; qui prie
-sincèrement pour ceux qui le contristent, et leur pardonne du fonds du coeur; qui, s'il
+sincèrement pour ceux qui le contristent, et leur pardonne du fonds du cœur; qui, s'il
 a peiné les autres, est toujours prêt à demander pardon; qui incline à la compassion
 plus qu'à la colère; qui se fait violence à lui-même, et s'efforce d'assujettir
 entièrement la chair à l'esprit. Il vaut mieux se purifier maintenant de ses péchés et
@@ -945,7 +945,7 @@ fétide; comme des chiens furieux, les envieux hurleront dans leur douleur.
 Chaque vice aura son tourment propre. Là les superbes seront remplis de
 confusion, et les avares réduits à la plus misérable indigence. Là une heure sera plus
 terrible dans le supplice, que cent années ici dans la plus dure pénitence. Ici
-quelquefois le travail cesse, on se console avec ses amis: là nul repos, nulle
+quelquefois le travail cesse, on se console avec ses amis : là nul repos, nulle
 consolation pour les damnés. Soyez donc maintenant plein d'appréhension et de
 douleur pour vos péchés, afin de partager, au jour du jugement, la sécurité des
 bienheureux. Car les justes alors s'élèveront avec une grande assurance contre ceux
@@ -967,19 +967,19 @@ Alors on trouvera plus de joie dans la pureté d'une bonne conscience que dans u
 docte philosophie. Alors le mépris des richesses aura plus de poids dans la balance
 que tous les trésors de la terre. Alors le souvenir d'une pieuse prière vous sera de plus
 de consolation que celui d'un repas splendide. Alors vous vous réjouirez plus du
-silence gardé que de longs entretiens. Alors les oeuvres saintes l'emporteront sur les
+silence gardé que de longs entretiens. Alors les œuvres saintes l'emporteront sur les
 beaux discours. Alors vous préférerez une vie de peine et de travail à tous les plaisirs
 de la terre. Apprenez donc maintenant à supporter quelques légères souffrances afin
 d'être alors délivré de souffrances plus grandes. Eprouvez ici d'abord ce que vous
 pourrez dans la suite. Si vous ne pouvez maintenant souffrir ce peu de chose,
 comment supporterez-vous les tourments éternels ? Si maintenant la moindre douleur
 vous cause tant d'impatience, que sera-ce donc alors des tortures de l'enfer ? Il y a,
-n'en doutez point, deux joies qu'on ne peut réunir: vous ne pouvez goûter ici-bas les
+n'en doutez point, deux joies qu'on ne peut réunir : vous ne pouvez goûter ici-bas les
 délices du monde, et régner ensuite avec Jésus-Christ.
 
 Si vous aviez vécu jusqu'à ce jour dans les honneurs et les voluptés, de quoi cela
 vous servirait-il, s'il vous fallait mourir à l'instant ? Donc tout est vanité, hors aimer
-Dieu et le servir lui seul. Car celui qui aime Dieu de tout son coeur ne craint ni la
+Dieu et le servir lui seul. Car celui qui aime Dieu de tout son cœur ne craint ni la
 mort, ni le supplice, ni le jugement, ni l'enfer, parce que l'amour parfait nous donne
 un sûr accès près de Dieu. Mais celui qui aime encore le péché, il n'est pas surprenant
 qu'il redoute la mort et le jugement. Cependant, si l'amour ne vous éloigne pas encore
@@ -991,7 +991,7 @@ tombera bientôt dans les pièges du démon.
 == Qu'il faut travailler avec ferveur à l'amendement de sa vie
 
 Soyez vigilant et fervent dans le service de Dieu et faites-vous souvent cette
-demande: Pourquoi es-tu venu ici, et pourquoi as-tu quitté le siècle ? N'était-ce pas
+demande : Pourquoi es-tu venu ici, et pourquoi as-tu quitté le siècle ? N'était-ce pas
 afin de vivre pour Dieu et devenir un homme spirituel ? Embrasez-vous du désir
 d'avancer parce que vous recevrez bientôt la récompense de vos travaux, et qu'alors il
 n'y aura plus ni crainte ni douleur. Maintenant un peu de travail, et puis un grand
@@ -1003,8 +1003,8 @@ présomption.
 
 Un homme qui flottait souvent, plein d'anxiété, entre la crainte et l'espérance, étant
 un jour accablé de tristesse, entra dans une église; et, se prosternant devant un autel
-pour prier, il disait et redisait en lui-même: Oh ! si je savais que je dusse persévérer !
-Aussitôt il entendit intérieurement cette divine réponse: Si vous le saviez, que
+pour prier, il disait et redisait en lui-même : Oh ! si je savais que je dusse persévérer !
+Aussitôt il entendit intérieurement cette divine réponse : Si vous le saviez, que
 voudriez-vous faire ? Faites maintenant ce que vous feriez alors, et vous jouirez de la
 paix. Consolé à l'instant même et fortifié, il s'abandonna sans réserve à la volonté de
 Dieu et ses agitations cessèrent. Il ne voulut point rechercher avec curiosité ce qui lui
@@ -1013,7 +1013,7 @@ et ce qui lui plaît davantage, afin de commencer et d'achever tout ce qui est b
 
 Espérez en Dieu, dit le Prophète, et faites le bien; habitez en paix la terre, et vous
 serez nourri de ses richesses. Une chose refroidit en quelques-uns l'ardeur d'avancer
-et de se corriger: la crainte des difficultés, et le travail du combat. En effet, ceux-là
+et de se corriger : la crainte des difficultés, et le travail du combat. En effet, ceux-là
 devancent les autres dans la vertu, qui s'efforcent avec plus de courage de se vaincre
 eux-mêmes dans ce qui leur est le plus pénible et qui contrarie le plus leur penchant.
 Car l'homme fait d'autant plus de progrès et mérite d'autant plus de grâce, qu'il se
@@ -1022,7 +1022,7 @@ surmonte lui-même et se mortifie davantage.
 Il est vrai que tous n'ont pas également à combattre pour se vaincre et mourir à
 eux-mêmes. Cependant un homme animé d'un zèle ardent avancera bien plus, même
 avec de nombreuses passions, qu'un autre à cet égard mieux disposé, mais tiède pour
-la vertu. Deux choses aident surtout à opérer un grand amendement: s'arracher avec
+la vertu. Deux choses aident surtout à opérer un grand amendement : s'arracher avec
 violence à ce que la nature dégradée convoite, et travailler ardemment à acquérir la
 vertu dont on a le plus grand besoin. Attachez-vous aussi particulièrement à éviter et
 à vaincre les défauts qui vous déplaisent le plus dans les autres.
@@ -1030,12 +1030,12 @@ vertu dont on a le plus grand besoin. Attachez-vous aussi particulièrement à �
 Profitez de tout pour votre avancement. Si vous voyez de bons exemples ou si vous
 les entendez raconter, animez-vous à les imiter. Que si vous apercevez quelque chose
 de répréhensible, prenez garde de commettre la même faute; ou, si vous l'avez
-quelquefois commise, tâchez de vous corriger promptement. Comme votre oeil
+quelquefois commise, tâchez de vous corriger promptement. Comme votre œil
 observe les autres, les autres vous observent aussi. Qu'il est consolant et doux de voir
 des religieux zélés, pieux, fervents, fidèles observateurs de la règle ! Qu'il est triste,
 au contraire, et pénible d'en voir qui ne vivent pas dans l'ordre et qui ne remplissent
 pas les engagements auxquels ils ont été appelés ! Qu'on se nuit à soi-même en
-négligeant les devoirs de sa vocation, et en détournant son coeur à des choses dont on
+négligeant les devoirs de sa vocation, et en détournant son cœur à des choses dont on
 n'est point chargé !
 
 Souvenez-vous de ce que vous avez promis, et que Jésus crucifié vous soit toujours
@@ -1044,7 +1044,7 @@ jusqu'ici fait si peu d'efforts pour y conformer la vôtre, quoique vous soyez d
 longtemps entré dans la voie de Dieu. Un religieux qui s'exerce à méditer
 sérieusement et avec piété la vie très sainte et la passion du Sauveur, y trouvera en
 abondance tout ce qui lui est utile et nécessaire, et il n'a pas besoin de chercher hors
-de Jésus quelque chose de meilleur. Ah ! si Jésus crucifié entrait dans notre coeur, que
+de Jésus quelque chose de meilleur. Ah ! si Jésus crucifié entrait dans notre cœur, que
 nous serions bientôt suffisamment instruits !
 
 Un religieux fervent reçoit bien ce qu'on lui commande et s'y soumet sans peine.
@@ -1064,7 +1064,7 @@ les louanges de Dieu. Il serait donc bien honteux que la paresse vous tînt enco
 éloigné d'un si saint exercice lorsque déjà tant de religieux commencent à célébrer le
 Seigneur.
 
-Oh ! si vous n'aviez autre chose à faire qu'à louer de coeur et de bouche,
+Oh ! si vous n'aviez autre chose à faire qu'à louer de cœur et de bouche,
 perpétuellement, le Seigneur notre Dieu ! Si jamais vous n'aviez besoin de manger, de
 boire, de dormir, et que vous puissiez ne pas interrompre un seul moment ces
 louanges ni les autres exercices spirituels ! Vous seriez alors beaucoup plus heureux
