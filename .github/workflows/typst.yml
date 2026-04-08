@@ -1,0 +1,44 @@
+name: Build and Deploy Typst PDF
+
+on:
+  push:
+    paths:
+      - "**.typ"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Typst
+        run: |
+          curl -L https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz \
+          | tar -xJ
+          sudo mv typst*/typst /usr/local/bin/typst
+
+      - name: Compile
+        run: |
+          typst compile main.typ imitation-jesus.pdf
+          mkdir dist
+          cp imitation-jesus.pdf dist/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v4
