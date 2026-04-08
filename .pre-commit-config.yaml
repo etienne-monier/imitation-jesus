@@ -3,6 +3,6 @@ repos:
     hooks:
       - id: typst-build
         name: Compile Typst to PDF
-        entry: bash -c 'typst compile main.typ main.pdf'
+        entry: bash -c 'typst compile main.typ main.pdf && git add main.pdf'
         language: system
         always_run: true
