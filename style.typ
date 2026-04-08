@@ -2,7 +2,7 @@
 
 // Skip a page if last one is on the left, skip two pages otherwise
 #let doublepagebreak() = {
-  context{
+  context {
     let p = counter(page).get().first()
 
     if calc.even(p) {
@@ -22,14 +22,13 @@
       #set align(center)
       #set text(8pt)
       #counter(page).display("- 1 -")
-    ]
+    ],
   )
   doc
 }
 
 // The base book style
 #let book-style(title: none, doc) = {
-
   // Set global document style
   set document(title: title)
   set text(lang: "fr")
@@ -47,33 +46,32 @@
         // Other level
         numbering("1.1.1", nums)
       }
-    }
+    },
   )
 
   // ------------------
   // Header rendering
   // ------------------
-  
+
   // Configure how the books are rendered
   show heading.where(level: 1): set align(center)
   show heading.where(level: 1): it => {
-    if it.numbering == none {return }
-    else{
+    if it.numbering == none { return } else {
       // /!\ Raises a warning
-      if counter(heading).get().at(0) > 1{
-        doublepagebreak()  
+      if counter(heading).get().at(0) > 1 {
+        doublepagebreak()
       }
-      
+
       block(below: 2em)[
         \~
         #smallcaps(counter(heading).display(it.numbering).replace(" -", ""))
         \~
-        
-        #smallcaps(it.body) 
+
+        #smallcaps(it.body)
       ]
     }
   }
-  
+
   // Configure how the chapters are rendered
   show heading.where(level: 2): set align(center)
   show heading.where(level: 2): set block(above: 2em, below: 2em)
@@ -88,8 +86,8 @@
 
   show outline.entry.where(level: 1): set block(above: 2em, below: 1em)
   show outline.entry.where(level: 1): set text(navy, 13pt)
-  
-    
+
+
   show outline.entry.where(level: 1): it => link(
     it.element.location(),
     // Keep just the body, dropping
@@ -108,54 +106,55 @@
   // ------------------
 
   let configure-header(doc) = {
-    
     set page(header: context {
       let value = hydra(1)
-      if value == none {return}
-      
-      set text(9pt)  
+      if value == none { return }
+
+      set text(9pt)
       let lineWidth = 0.2pt
       let alignArg
-      
+
       if calc.odd(here().page()) {
         align(right, hydra(1))
       } else {
-         align(left, hydra(1))
+        align(left, hydra(1))
       }
-      
+
       line(length: 100%, stroke: lineWidth)
-      }
-    )
+    })
 
     doc
   }
-  
+
   // ------------------
   // Contents
   // ------------------
-  
-  // Put the title page
-  page(background:   rect(
-   height: 100%,
-    width: 100%,
-    fill: rgb("#fcf1e0")
-  ),{
-    set align(center + horizon)
-    set text(20pt)
 
-    image("sacre_coeur.png", alt: "Le sacré cœur de Jésus")
-    
-    title
-  })
+  // Put the title page
+  page(
+    background: rect(
+      height: 100%,
+      width: 100%,
+      fill: rgb("#fcf1e0"),
+    ),
+    {
+      set align(center + horizon)
+      set text(20pt)
+
+      image("sacre_coeur.png", alt: "Le sacré cœur de Jésus")
+
+      title
+    },
+  )
 
   page({
     set align(center + bottom)
     [
-      Le texte de ce document appartient au domaine publique
-    
-      Vous pouvez en disposer comme bon vous semble.
-    
-      Le code source et le document pdf généré est distribué sous license MIT.
+      L’Imitation de Jésus-Christ est une œuvre spirituelle chrétienne classique, traditionnellement attribuée à Thomas a Kempis (XVe siècle).
+
+      Le texte original est dans le domaine public.
+
+      Ce projet est distribué sous licence MIT.
     ]
   })
 
@@ -163,9 +162,9 @@
 
   doublepagebreak()
 
-  show : setup-main-body
-  show : configure-header
-  
+  show: setup-main-body
+  show: configure-header
+
   // Finally show the doc
   doc
 }

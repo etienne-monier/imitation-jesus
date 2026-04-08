@@ -1,8 +1,10 @@
-# L'imitation de Jésus
-
 # Imitation de Jésus-Christ — Version Typst
 
 Ce projet propose une mise en forme en **Typst** du texte classique *L’Imitation de Jésus-Christ*.
+
+Le document est accessible publiquement à cette adresse
+[imitation-jesus.pdf](https://etienne-monier.github.io/imitation-jesus/imitation-jesus.pdf)
+ou alors sur ce dépot [main.pdf](main.pdf).
 
 ## ✨ Objectif
 
@@ -14,6 +16,7 @@ L’objectif est de fournir :
 ## 📦 Contenu
 
 - Source Typst du texte
+- Document PDF compilé
 - Organisation en chapitres/livres
 - Configuration de mise en page
 
