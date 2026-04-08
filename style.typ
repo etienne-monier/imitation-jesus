@@ -1,19 +1,5 @@
 #import "@preview/hydra:0.6.2": hydra
 
-// Skip a page if last one is on the left, skip two pages otherwise
-#let doublepagebreak() = {
-  context {
-    let p = counter(page).get().first()
-
-    if calc.even(p) {
-      pagebreak()
-    } else {
-      pagebreak()
-      pagebreak()
-    }
-  }
-}
-
 // Activate page numbering and configure footer format
 #let setup-main-body(doc) = {
   set page(
@@ -59,7 +45,7 @@
     if it.numbering == none { return } else {
       // /!\ Raises a warning
       if counter(heading).get().at(0) > 1 {
-        doublepagebreak()
+        pagebreak(to: "odd")
       }
 
       block(below: 2em)[
@@ -160,7 +146,7 @@
 
   outline(indent: 0pt)
 
-  doublepagebreak()
+  pagebreak(to: "odd")
 
   show: setup-main-body
   show: configure-header
